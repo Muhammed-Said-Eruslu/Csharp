@@ -1,0 +1,6 @@
+C:\Users\ben\source\repos\ConsoleApp1\ve operatörü\bin\Debug\ve operatörü.exe.config
+C:\Users\ben\source\repos\ConsoleApp1\ve operatörü\bin\Debug\ve operatörü.exe
+C:\Users\ben\source\repos\ConsoleApp1\ve operatörü\bin\Debug\ve operatörü.pdb
+C:\Users\ben\source\repos\ConsoleApp1\ve operatörü\obj\Debug\ve operatörü.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\ConsoleApp1\ve operatörü\obj\Debug\ve operatörü.exe
+C:\Users\ben\source\repos\ConsoleApp1\ve operatörü\obj\Debug\ve operatörü.pdb

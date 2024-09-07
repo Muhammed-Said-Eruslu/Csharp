@@ -1,0 +1,6 @@
+C:\Users\ben\source\repos\ConsoleApp1\ifelse\bin\Debug\ifelse.exe.config
+C:\Users\ben\source\repos\ConsoleApp1\ifelse\bin\Debug\ifelse.exe
+C:\Users\ben\source\repos\ConsoleApp1\ifelse\bin\Debug\ifelse.pdb
+C:\Users\ben\source\repos\ConsoleApp1\ifelse\obj\Debug\ifelse.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\ConsoleApp1\ifelse\obj\Debug\ifelse.exe
+C:\Users\ben\source\repos\ConsoleApp1\ifelse\obj\Debug\ifelse.pdb

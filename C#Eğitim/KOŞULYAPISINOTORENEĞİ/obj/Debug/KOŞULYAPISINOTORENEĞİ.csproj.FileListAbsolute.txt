@@ -1,0 +1,6 @@
+C:\Users\ben\source\repos\ConsoleApp1\KOŞULYAPISINOTORENEĞİ\bin\Debug\KOŞULYAPISINOTORENEĞİ.exe.config
+C:\Users\ben\source\repos\ConsoleApp1\KOŞULYAPISINOTORENEĞİ\bin\Debug\KOŞULYAPISINOTORENEĞİ.exe
+C:\Users\ben\source\repos\ConsoleApp1\KOŞULYAPISINOTORENEĞİ\bin\Debug\KOŞULYAPISINOTORENEĞİ.pdb
+C:\Users\ben\source\repos\ConsoleApp1\KOŞULYAPISINOTORENEĞİ\obj\Debug\KOŞULYAPISINOTORENEĞİ.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\ConsoleApp1\KOŞULYAPISINOTORENEĞİ\obj\Debug\KOŞULYAPISINOTORENEĞİ.exe
+C:\Users\ben\source\repos\ConsoleApp1\KOŞULYAPISINOTORENEĞİ\obj\Debug\KOŞULYAPISINOTORENEĞİ.pdb

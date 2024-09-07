@@ -1,0 +1,6 @@
+C:\Users\ben\source\repos\ConsoleApp1\DizilerOrnek\obj\Debug\DizilerOrnek.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\ConsoleApp1\DizilerOrnek\bin\Debug\DizilerOrnek.exe.config
+C:\Users\ben\source\repos\ConsoleApp1\DizilerOrnek\bin\Debug\DizilerOrnek.exe
+C:\Users\ben\source\repos\ConsoleApp1\DizilerOrnek\bin\Debug\DizilerOrnek.pdb
+C:\Users\ben\source\repos\ConsoleApp1\DizilerOrnek\obj\Debug\DizilerOrnek.exe
+C:\Users\ben\source\repos\ConsoleApp1\DizilerOrnek\obj\Debug\DizilerOrnek.pdb

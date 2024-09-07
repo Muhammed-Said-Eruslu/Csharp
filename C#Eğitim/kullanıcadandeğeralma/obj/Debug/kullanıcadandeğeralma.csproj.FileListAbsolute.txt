@@ -1,0 +1,6 @@
+C:\Users\ben\source\repos\ConsoleApp1\kullanıcadandeğeralma\bin\Debug\kullanıcadandeğeralma.exe.config
+C:\Users\ben\source\repos\ConsoleApp1\kullanıcadandeğeralma\bin\Debug\kullanıcadandeğeralma.exe
+C:\Users\ben\source\repos\ConsoleApp1\kullanıcadandeğeralma\bin\Debug\kullanıcadandeğeralma.pdb
+C:\Users\ben\source\repos\ConsoleApp1\kullanıcadandeğeralma\obj\Debug\kullanıcadandeğeralma.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\ConsoleApp1\kullanıcadandeğeralma\obj\Debug\kullanıcadandeğeralma.exe
+C:\Users\ben\source\repos\ConsoleApp1\kullanıcadandeğeralma\obj\Debug\kullanıcadandeğeralma.pdb

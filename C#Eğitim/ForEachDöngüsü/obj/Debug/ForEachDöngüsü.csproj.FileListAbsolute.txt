@@ -1,0 +1,6 @@
+C:\Users\ben\source\repos\ConsoleApp1\ForEachDöngüsü\bin\Debug\ForEachDöngüsü.exe.config
+C:\Users\ben\source\repos\ConsoleApp1\ForEachDöngüsü\bin\Debug\ForEachDöngüsü.exe
+C:\Users\ben\source\repos\ConsoleApp1\ForEachDöngüsü\bin\Debug\ForEachDöngüsü.pdb
+C:\Users\ben\source\repos\ConsoleApp1\ForEachDöngüsü\obj\Debug\ForEachDöngüsü.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\ConsoleApp1\ForEachDöngüsü\obj\Debug\ForEachDöngüsü.exe
+C:\Users\ben\source\repos\ConsoleApp1\ForEachDöngüsü\obj\Debug\ForEachDöngüsü.pdb

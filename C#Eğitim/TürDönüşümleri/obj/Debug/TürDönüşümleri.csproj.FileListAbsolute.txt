@@ -1,0 +1,7 @@
+C:\Users\ben\source\repos\ConsoleApp1\TürDönüşümleri\bin\Debug\TürDönüşümleri.exe.config
+C:\Users\ben\source\repos\ConsoleApp1\TürDönüşümleri\bin\Debug\TürDönüşümleri.exe
+C:\Users\ben\source\repos\ConsoleApp1\TürDönüşümleri\bin\Debug\TürDönüşümleri.pdb
+C:\Users\ben\source\repos\ConsoleApp1\TürDönüşümleri\obj\Debug\TürDönüşümleri.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\ConsoleApp1\TürDönüşümleri\obj\Debug\TürDönüşümleri.exe
+C:\Users\ben\source\repos\ConsoleApp1\TürDönüşümleri\obj\Debug\TürDönüşümleri.pdb
+C:\Users\ben\source\repos\ConsoleApp1\TürDönüşümleri\obj\Debug\TürDönüşümleri.csproj.AssemblyReference.cache

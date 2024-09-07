@@ -1,0 +1,6 @@
+C:\Users\ben\source\repos\ConsoleApp1\veya\bin\Debug\veya.exe.config
+C:\Users\ben\source\repos\ConsoleApp1\veya\bin\Debug\veya.exe
+C:\Users\ben\source\repos\ConsoleApp1\veya\bin\Debug\veya.pdb
+C:\Users\ben\source\repos\ConsoleApp1\veya\obj\Debug\veya.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\ConsoleApp1\veya\obj\Debug\veya.exe
+C:\Users\ben\source\repos\ConsoleApp1\veya\obj\Debug\veya.pdb

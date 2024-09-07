@@ -1,0 +1,6 @@
+C:\Users\ben\source\repos\ConsoleApp1\Diziler\bin\Debug\Diziler.exe.config
+C:\Users\ben\source\repos\ConsoleApp1\Diziler\bin\Debug\Diziler.exe
+C:\Users\ben\source\repos\ConsoleApp1\Diziler\bin\Debug\Diziler.pdb
+C:\Users\ben\source\repos\ConsoleApp1\Diziler\obj\Debug\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\ConsoleApp1\Diziler\obj\Debug\Diziler.exe
+C:\Users\ben\source\repos\ConsoleApp1\Diziler\obj\Debug\Diziler.pdb

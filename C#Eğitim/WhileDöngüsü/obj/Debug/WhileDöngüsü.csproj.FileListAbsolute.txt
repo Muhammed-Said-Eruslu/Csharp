@@ -1,0 +1,7 @@
+C:\Users\ben\source\repos\ConsoleApp1\WhileDöngüsü\bin\Debug\WhileDöngüsü.exe.config
+C:\Users\ben\source\repos\ConsoleApp1\WhileDöngüsü\bin\Debug\WhileDöngüsü.exe
+C:\Users\ben\source\repos\ConsoleApp1\WhileDöngüsü\bin\Debug\WhileDöngüsü.pdb
+C:\Users\ben\source\repos\ConsoleApp1\WhileDöngüsü\obj\Debug\WhileDöngüsü.csproj.AssemblyReference.cache
+C:\Users\ben\source\repos\ConsoleApp1\WhileDöngüsü\obj\Debug\WhileDöngüsü.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\ConsoleApp1\WhileDöngüsü\obj\Debug\WhileDöngüsü.exe
+C:\Users\ben\source\repos\ConsoleApp1\WhileDöngüsü\obj\Debug\WhileDöngüsü.pdb

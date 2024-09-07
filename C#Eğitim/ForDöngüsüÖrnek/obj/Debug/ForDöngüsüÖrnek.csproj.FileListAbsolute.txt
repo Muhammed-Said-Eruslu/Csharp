@@ -1,0 +1,7 @@
+C:\Users\ben\source\repos\ConsoleApp1\ForDöngüsüÖrnek\bin\Debug\ForDöngüsüÖrnek.exe.config
+C:\Users\ben\source\repos\ConsoleApp1\ForDöngüsüÖrnek\bin\Debug\ForDöngüsüÖrnek.exe
+C:\Users\ben\source\repos\ConsoleApp1\ForDöngüsüÖrnek\bin\Debug\ForDöngüsüÖrnek.pdb
+C:\Users\ben\source\repos\ConsoleApp1\ForDöngüsüÖrnek\obj\Debug\ForDöngüsüÖrnek.csproj.AssemblyReference.cache
+C:\Users\ben\source\repos\ConsoleApp1\ForDöngüsüÖrnek\obj\Debug\ForDöngüsüÖrnek.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\ConsoleApp1\ForDöngüsüÖrnek\obj\Debug\ForDöngüsüÖrnek.exe
+C:\Users\ben\source\repos\ConsoleApp1\ForDöngüsüÖrnek\obj\Debug\ForDöngüsüÖrnek.pdb

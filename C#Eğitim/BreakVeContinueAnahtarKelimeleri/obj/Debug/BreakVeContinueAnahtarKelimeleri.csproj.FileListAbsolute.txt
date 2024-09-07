@@ -1,0 +1,6 @@
+C:\Users\ben\source\repos\ConsoleApp1\BreakVeContinueAnahtarKelimeleri\bin\Debug\BreakVeContinueAnahtarKelimeleri.exe.config
+C:\Users\ben\source\repos\ConsoleApp1\BreakVeContinueAnahtarKelimeleri\bin\Debug\BreakVeContinueAnahtarKelimeleri.exe
+C:\Users\ben\source\repos\ConsoleApp1\BreakVeContinueAnahtarKelimeleri\bin\Debug\BreakVeContinueAnahtarKelimeleri.pdb
+C:\Users\ben\source\repos\ConsoleApp1\BreakVeContinueAnahtarKelimeleri\obj\Debug\BreakVeContinueAnahtarKelimeleri.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\ConsoleApp1\BreakVeContinueAnahtarKelimeleri\obj\Debug\BreakVeContinueAnahtarKelimeleri.exe
+C:\Users\ben\source\repos\ConsoleApp1\BreakVeContinueAnahtarKelimeleri\obj\Debug\BreakVeContinueAnahtarKelimeleri.pdb

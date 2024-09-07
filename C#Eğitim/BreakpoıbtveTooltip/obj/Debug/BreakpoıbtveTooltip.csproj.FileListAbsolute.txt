@@ -1,0 +1,6 @@
+C:\Users\ben\source\repos\ConsoleApp1\BreakpoıbtveTooltip\bin\Debug\BreakpoıbtveTooltip.exe.config
+C:\Users\ben\source\repos\ConsoleApp1\BreakpoıbtveTooltip\bin\Debug\BreakpoıbtveTooltip.exe
+C:\Users\ben\source\repos\ConsoleApp1\BreakpoıbtveTooltip\bin\Debug\BreakpoıbtveTooltip.pdb
+C:\Users\ben\source\repos\ConsoleApp1\BreakpoıbtveTooltip\obj\Debug\BreakpoıbtveTooltip.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\ConsoleApp1\BreakpoıbtveTooltip\obj\Debug\BreakpoıbtveTooltip.exe
+C:\Users\ben\source\repos\ConsoleApp1\BreakpoıbtveTooltip\obj\Debug\BreakpoıbtveTooltip.pdb

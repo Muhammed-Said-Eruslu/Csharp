@@ -1,0 +1,6 @@
+C:\Users\ben\source\repos\ConsoleApp1\ekop4\bin\Debug\ekop4.exe.config
+C:\Users\ben\source\repos\ConsoleApp1\ekop4\bin\Debug\ekop4.exe
+C:\Users\ben\source\repos\ConsoleApp1\ekop4\bin\Debug\ekop4.pdb
+C:\Users\ben\source\repos\ConsoleApp1\ekop4\obj\Debug\ekop4.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\ConsoleApp1\ekop4\obj\Debug\ekop4.exe
+C:\Users\ben\source\repos\ConsoleApp1\ekop4\obj\Debug\ekop4.pdb

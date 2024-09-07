@@ -1,0 +1,6 @@
+C:\Users\ben\source\repos\ConsoleApp1\miniatm\bin\Debug\miniatm.exe.config
+C:\Users\ben\source\repos\ConsoleApp1\miniatm\bin\Debug\miniatm.exe
+C:\Users\ben\source\repos\ConsoleApp1\miniatm\bin\Debug\miniatm.pdb
+C:\Users\ben\source\repos\ConsoleApp1\miniatm\obj\Debug\miniatm.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\ConsoleApp1\miniatm\obj\Debug\miniatm.exe
+C:\Users\ben\source\repos\ConsoleApp1\miniatm\obj\Debug\miniatm.pdb

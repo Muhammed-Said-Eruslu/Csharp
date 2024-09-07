@@ -1,0 +1,6 @@
+C:\Users\ben\source\repos\ConsoleApp1\SwichCaseYapısı\obj\Debug\SwichCaseYapısı.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\ConsoleApp1\SwichCaseYapısı\bin\Debug\SwichCaseYapısı.exe.config
+C:\Users\ben\source\repos\ConsoleApp1\SwichCaseYapısı\bin\Debug\SwichCaseYapısı.exe
+C:\Users\ben\source\repos\ConsoleApp1\SwichCaseYapısı\bin\Debug\SwichCaseYapısı.pdb
+C:\Users\ben\source\repos\ConsoleApp1\SwichCaseYapısı\obj\Debug\SwichCaseYapısı.exe
+C:\Users\ben\source\repos\ConsoleApp1\SwichCaseYapısı\obj\Debug\SwichCaseYapısı.pdb

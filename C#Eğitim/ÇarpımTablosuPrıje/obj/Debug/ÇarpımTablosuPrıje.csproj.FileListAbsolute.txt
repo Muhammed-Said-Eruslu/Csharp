@@ -1,0 +1,6 @@
+C:\Users\ben\source\repos\ConsoleApp1\ÇarpımTablosuPrıje\bin\Debug\ÇarpımTablosuPrıje.exe.config
+C:\Users\ben\source\repos\ConsoleApp1\ÇarpımTablosuPrıje\bin\Debug\ÇarpımTablosuPrıje.exe
+C:\Users\ben\source\repos\ConsoleApp1\ÇarpımTablosuPrıje\bin\Debug\ÇarpımTablosuPrıje.pdb
+C:\Users\ben\source\repos\ConsoleApp1\ÇarpımTablosuPrıje\obj\Debug\ÇarpımTablosuPrıje.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\ConsoleApp1\ÇarpımTablosuPrıje\obj\Debug\ÇarpımTablosuPrıje.exe
+C:\Users\ben\source\repos\ConsoleApp1\ÇarpımTablosuPrıje\obj\Debug\ÇarpımTablosuPrıje.pdb

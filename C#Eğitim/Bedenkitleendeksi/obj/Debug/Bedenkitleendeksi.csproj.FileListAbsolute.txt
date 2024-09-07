@@ -1,0 +1,7 @@
+C:\Users\ben\source\repos\ConsoleApp1\Bedenkitleendeksi\bin\Debug\Bedenkitleendeksi.exe.config
+C:\Users\ben\source\repos\ConsoleApp1\Bedenkitleendeksi\bin\Debug\Bedenkitleendeksi.exe
+C:\Users\ben\source\repos\ConsoleApp1\Bedenkitleendeksi\bin\Debug\Bedenkitleendeksi.pdb
+C:\Users\ben\source\repos\ConsoleApp1\Bedenkitleendeksi\obj\Debug\Bedenkitleendeksi.csproj.AssemblyReference.cache
+C:\Users\ben\source\repos\ConsoleApp1\Bedenkitleendeksi\obj\Debug\Bedenkitleendeksi.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\ConsoleApp1\Bedenkitleendeksi\obj\Debug\Bedenkitleendeksi.exe
+C:\Users\ben\source\repos\ConsoleApp1\Bedenkitleendeksi\obj\Debug\Bedenkitleendeksi.pdb

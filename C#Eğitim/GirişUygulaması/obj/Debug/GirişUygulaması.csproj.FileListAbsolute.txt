@@ -1,0 +1,6 @@
+C:\Users\ben\source\repos\ConsoleApp1\GirişUygulaması\bin\Debug\GirişUygulaması.exe.config
+C:\Users\ben\source\repos\ConsoleApp1\GirişUygulaması\bin\Debug\GirişUygulaması.exe
+C:\Users\ben\source\repos\ConsoleApp1\GirişUygulaması\bin\Debug\GirişUygulaması.pdb
+C:\Users\ben\source\repos\ConsoleApp1\GirişUygulaması\obj\Debug\GirişUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\ConsoleApp1\GirişUygulaması\obj\Debug\GirişUygulaması.exe
+C:\Users\ben\source\repos\ConsoleApp1\GirişUygulaması\obj\Debug\GirişUygulaması.pdb

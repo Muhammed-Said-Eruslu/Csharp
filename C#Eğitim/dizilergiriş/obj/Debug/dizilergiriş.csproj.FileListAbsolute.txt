@@ -1,0 +1,6 @@
+C:\Users\ben\source\repos\ConsoleApp1\dizilergiriş\bin\Debug\dizilergiriş.exe.config
+C:\Users\ben\source\repos\ConsoleApp1\dizilergiriş\bin\Debug\dizilergiriş.exe
+C:\Users\ben\source\repos\ConsoleApp1\dizilergiriş\bin\Debug\dizilergiriş.pdb
+C:\Users\ben\source\repos\ConsoleApp1\dizilergiriş\obj\Debug\dizilergiriş.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\ConsoleApp1\dizilergiriş\obj\Debug\dizilergiriş.exe
+C:\Users\ben\source\repos\ConsoleApp1\dizilergiriş\obj\Debug\dizilergiriş.pdb

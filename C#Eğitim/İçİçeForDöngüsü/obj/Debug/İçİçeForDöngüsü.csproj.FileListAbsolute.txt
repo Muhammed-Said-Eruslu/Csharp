@@ -1,0 +1,6 @@
+C:\Users\ben\source\repos\ConsoleApp1\İçİçeForDöngüsü\obj\Debug\İçİçeForDöngüsü.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\ConsoleApp1\İçİçeForDöngüsü\bin\Debug\İçİçeForDöngüsü.exe.config
+C:\Users\ben\source\repos\ConsoleApp1\İçİçeForDöngüsü\bin\Debug\İçİçeForDöngüsü.exe
+C:\Users\ben\source\repos\ConsoleApp1\İçİçeForDöngüsü\bin\Debug\İçİçeForDöngüsü.pdb
+C:\Users\ben\source\repos\ConsoleApp1\İçİçeForDöngüsü\obj\Debug\İçİçeForDöngüsü.exe
+C:\Users\ben\source\repos\ConsoleApp1\İçİçeForDöngüsü\obj\Debug\İçİçeForDöngüsü.pdb
