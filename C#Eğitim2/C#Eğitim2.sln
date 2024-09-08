@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methodlar", "Methodlar\Meth
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayDiziler", "ArrayDiziler\ArrayDiziler.csproj", "{408B0FB9-19EE-4BBC-A5B5-A4D36E84F1E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForDöngüsü", "ForDöngüsü\ForDöngüsü.csproj", "{5A7B899C-C4AD-4CF5-8B6F-24E8AC3ADBE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{408B0FB9-19EE-4BBC-A5B5-A4D36E84F1E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{408B0FB9-19EE-4BBC-A5B5-A4D36E84F1E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{408B0FB9-19EE-4BBC-A5B5-A4D36E84F1E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A7B899C-C4AD-4CF5-8B6F-24E8AC3ADBE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A7B899C-C4AD-4CF5-8B6F-24E8AC3ADBE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A7B899C-C4AD-4CF5-8B6F-24E8AC3ADBE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A7B899C-C4AD-4CF5-8B6F-24E8AC3ADBE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
