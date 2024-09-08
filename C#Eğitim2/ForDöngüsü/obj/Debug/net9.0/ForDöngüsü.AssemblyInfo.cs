@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ForDöngüsü")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56112032318ad135d04a723500dc909f66ba4659")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c4c7d20d8378cb666f4ed8e34fd8482e8157c36")]
 [assembly: System.Reflection.AssemblyProductAttribute("ForDöngüsü")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ForDöngüsü")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
