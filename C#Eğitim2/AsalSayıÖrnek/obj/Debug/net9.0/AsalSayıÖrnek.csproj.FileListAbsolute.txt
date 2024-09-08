@@ -1,0 +1,5 @@
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\AsalSayıÖrnek\obj\Debug\net9.0\AsalSayıÖrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\AsalSayıÖrnek\obj\Debug\net9.0\AsalSayıÖrnek.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\AsalSayıÖrnek\obj\Debug\net9.0\AsalSayıÖrnek.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\AsalSayıÖrnek\obj\Debug\net9.0\AsalSayıÖrnek.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\AsalSayıÖrnek\obj\Debug\net9.0\AsalSayıÖrnek.sourcelink.json

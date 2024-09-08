@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoWhile", "DoWhile\DoWhile.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForEachDöngüsü", "ForEachDöngüsü\ForEachDöngüsü.csproj", "{4162E137-9389-4282-A39D-18870907DB88}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsalSayıÖrnek", "AsalSayıÖrnek\AsalSayıÖrnek.csproj", "{57A00575-6BE8-4149-A158-031CFC20176B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{4162E137-9389-4282-A39D-18870907DB88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4162E137-9389-4282-A39D-18870907DB88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4162E137-9389-4282-A39D-18870907DB88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57A00575-6BE8-4149-A158-031CFC20176B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57A00575-6BE8-4149-A158-031CFC20176B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57A00575-6BE8-4149-A158-031CFC20176B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57A00575-6BE8-4149-A158-031CFC20176B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
