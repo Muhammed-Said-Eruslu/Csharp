@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\SwichCase\bin\Debug\net9.0\SwichCase.exe
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\SwichCase\bin\Debug\net9.0\SwichCase.deps.json
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\SwichCase\bin\Debug\net9.0\SwichCase.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\SwichCase\bin\Debug\net9.0\SwichCase.dll
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\SwichCase\bin\Debug\net9.0\SwichCase.pdb
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\SwichCase\obj\Debug\net9.0\SwichCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\SwichCase\obj\Debug\net9.0\SwichCase.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\SwichCase\obj\Debug\net9.0\SwichCase.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\SwichCase\obj\Debug\net9.0\SwichCase.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\SwichCase\obj\Debug\net9.0\SwichCase.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\SwichCase\obj\Debug\net9.0\SwichCase.dll
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\SwichCase\obj\Debug\net9.0\refint\SwichCase.dll
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\SwichCase\obj\Debug\net9.0\SwichCase.pdb
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\SwichCase\obj\Debug\net9.0\SwichCase.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\SwichCase\obj\Debug\net9.0\ref\SwichCase.dll
