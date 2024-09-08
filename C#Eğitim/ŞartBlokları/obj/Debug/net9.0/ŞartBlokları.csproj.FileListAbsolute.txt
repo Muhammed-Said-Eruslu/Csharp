@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Eğitim\ŞartBlokları\bin\Debug\net9.0\ŞartBlokları.exe
+C:\Users\ben\source\repos\Csharp\C#Eğitim\ŞartBlokları\bin\Debug\net9.0\ŞartBlokları.deps.json
+C:\Users\ben\source\repos\Csharp\C#Eğitim\ŞartBlokları\bin\Debug\net9.0\ŞartBlokları.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Eğitim\ŞartBlokları\bin\Debug\net9.0\ŞartBlokları.dll
+C:\Users\ben\source\repos\Csharp\C#Eğitim\ŞartBlokları\bin\Debug\net9.0\ŞartBlokları.pdb
+C:\Users\ben\source\repos\Csharp\C#Eğitim\ŞartBlokları\obj\Debug\net9.0\ŞartBlokları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Eğitim\ŞartBlokları\obj\Debug\net9.0\ŞartBlokları.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Eğitim\ŞartBlokları\obj\Debug\net9.0\ŞartBlokları.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Eğitim\ŞartBlokları\obj\Debug\net9.0\ŞartBlokları.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Eğitim\ŞartBlokları\obj\Debug\net9.0\ŞartBlokları.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Eğitim\ŞartBlokları\obj\Debug\net9.0\ŞartBlokları.dll
+C:\Users\ben\source\repos\Csharp\C#Eğitim\ŞartBlokları\obj\Debug\net9.0\refint\ŞartBlokları.dll
+C:\Users\ben\source\repos\Csharp\C#Eğitim\ŞartBlokları\obj\Debug\net9.0\ŞartBlokları.pdb
+C:\Users\ben\source\repos\Csharp\C#Eğitim\ŞartBlokları\obj\Debug\net9.0\ŞartBlokları.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Eğitim\ŞartBlokları\obj\Debug\net9.0\ref\ŞartBlokları.dll
