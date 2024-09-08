@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ifelse\bin\Debug\net9.0\ifelse.exe
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ifelse\bin\Debug\net9.0\ifelse.deps.json
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ifelse\bin\Debug\net9.0\ifelse.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ifelse\bin\Debug\net9.0\ifelse.dll
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ifelse\bin\Debug\net9.0\ifelse.pdb
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ifelse\obj\Debug\net9.0\ifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ifelse\obj\Debug\net9.0\ifelse.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ifelse\obj\Debug\net9.0\ifelse.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ifelse\obj\Debug\net9.0\ifelse.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ifelse\obj\Debug\net9.0\ifelse.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ifelse\obj\Debug\net9.0\ifelse.dll
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ifelse\obj\Debug\net9.0\refint\ifelse.dll
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ifelse\obj\Debug\net9.0\ifelse.pdb
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ifelse\obj\Debug\net9.0\ifelse.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ifelse\obj\Debug\net9.0\ref\ifelse.dll
