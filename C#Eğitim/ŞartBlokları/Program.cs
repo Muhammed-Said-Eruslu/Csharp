@@ -11,3 +11,5 @@ else // if in değili else if ise ayrı bir tane daha kosul alır
     Console.WriteLine("Number is not 10")
 }
 Console.ReadLine()
+Console.ReadLine()
+
