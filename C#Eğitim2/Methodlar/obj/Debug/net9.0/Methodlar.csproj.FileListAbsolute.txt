@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\Methodlar\bin\Debug\net9.0\Methodlar.exe
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\Methodlar\bin\Debug\net9.0\Methodlar.deps.json
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\Methodlar\bin\Debug\net9.0\Methodlar.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\Methodlar\bin\Debug\net9.0\Methodlar.dll
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\Methodlar\bin\Debug\net9.0\Methodlar.pdb
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\Methodlar\obj\Debug\net9.0\Methodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\Methodlar\obj\Debug\net9.0\Methodlar.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\Methodlar\obj\Debug\net9.0\Methodlar.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\Methodlar\obj\Debug\net9.0\Methodlar.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\Methodlar\obj\Debug\net9.0\Methodlar.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\Methodlar\obj\Debug\net9.0\Methodlar.dll
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\Methodlar\obj\Debug\net9.0\refint\Methodlar.dll
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\Methodlar\obj\Debug\net9.0\Methodlar.pdb
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\Methodlar\obj\Debug\net9.0\Methodlar.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\Methodlar\obj\Debug\net9.0\ref\Methodlar.dll
