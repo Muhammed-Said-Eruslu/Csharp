@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-
+                                    //Refactorıng işlemleri yapılabılır hem coda da hemde stduıo da 
+                                    // studıo da yapmak ıcın kod yazaken sağ clık refactorung seceneğine tıklarız extrac var ordan yaparız
 // 1 den 100 kadar kı sayıları ekrana yazdır
 
 for(int i = 1; i <= 100; i++ ) // i 100 den küçük veya eşit oldugu sürece döngü devam eder (Loop)
