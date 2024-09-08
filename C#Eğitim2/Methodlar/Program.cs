@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 // metodlar neden yazılır 
 // mesala veri tabanına kullaıcının bilgilerini kaydetme işlemi var
-// kaudetme metodunu ayrı ayrı yazarsan onlarca yeri değiştirmek gerekir
+// kaydetme metodunu ayrı ayrı yazarsan onlarca yeri değiştirmek gerekir
 
 
 //static void Add() // farklı yerlerde kullanım amacı ıcın yapılır kendı fonkısoyumuz gibi bişey
