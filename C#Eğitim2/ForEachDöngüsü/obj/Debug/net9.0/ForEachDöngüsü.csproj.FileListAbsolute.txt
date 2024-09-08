@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ForEachDöngüsü\bin\Debug\net9.0\ForEachDöngüsü.exe
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ForEachDöngüsü\bin\Debug\net9.0\ForEachDöngüsü.deps.json
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ForEachDöngüsü\bin\Debug\net9.0\ForEachDöngüsü.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ForEachDöngüsü\bin\Debug\net9.0\ForEachDöngüsü.dll
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ForEachDöngüsü\bin\Debug\net9.0\ForEachDöngüsü.pdb
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ForEachDöngüsü\obj\Debug\net9.0\ForEachDöngüsü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ForEachDöngüsü\obj\Debug\net9.0\ForEachDöngüsü.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ForEachDöngüsü\obj\Debug\net9.0\ForEachDöngüsü.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ForEachDöngüsü\obj\Debug\net9.0\ForEachDöngüsü.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ForEachDöngüsü\obj\Debug\net9.0\ForEachDöngüsü.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ForEachDöngüsü\obj\Debug\net9.0\ForEachDöngüsü.dll
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ForEachDöngüsü\obj\Debug\net9.0\refint\ForEachDöngüsü.dll
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ForEachDöngüsü\obj\Debug\net9.0\ForEachDöngüsü.pdb
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ForEachDöngüsü\obj\Debug\net9.0\ForEachDöngüsü.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ForEachDöngüsü\obj\Debug\net9.0\ref\ForEachDöngüsü.dll

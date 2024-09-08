@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhlleDöngüsü(Loop)", "Wh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoWhile", "DoWhile\DoWhile.csproj", "{E67F054D-347D-4C81-8940-52CB75EF2E5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForEachDöngüsü", "ForEachDöngüsü\ForEachDöngüsü.csproj", "{4162E137-9389-4282-A39D-18870907DB88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{E67F054D-347D-4C81-8940-52CB75EF2E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E67F054D-347D-4C81-8940-52CB75EF2E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E67F054D-347D-4C81-8940-52CB75EF2E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4162E137-9389-4282-A39D-18870907DB88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4162E137-9389-4282-A39D-18870907DB88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4162E137-9389-4282-A39D-18870907DB88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4162E137-9389-4282-A39D-18870907DB88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
