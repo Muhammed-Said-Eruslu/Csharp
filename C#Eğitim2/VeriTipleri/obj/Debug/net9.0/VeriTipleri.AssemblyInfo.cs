@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ifelse")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("VeriTipleri")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5814fa5941d0bbbf021625cbc13488b1389a3b7a")]
-[assembly: System.Reflection.AssemblyProductAttribute("ifelse")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ifelse")]
+[assembly: System.Reflection.AssemblyProductAttribute("VeriTipleri")]
+[assembly: System.Reflection.AssemblyTitleAttribute("VeriTipleri")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
