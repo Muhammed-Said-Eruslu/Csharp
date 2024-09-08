@@ -1,0 +1,5 @@
+{
+    "csharp.suppressDotnetInstallWarning": true,
+    "csharp.format.enable": true,
+    "csharp.autotask.enabled": true
+  }
