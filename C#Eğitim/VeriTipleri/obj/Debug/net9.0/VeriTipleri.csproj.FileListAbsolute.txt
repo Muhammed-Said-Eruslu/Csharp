@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Eğitim\VeriTipleri\bin\Debug\net9.0\VeriTipleri.exe
+C:\Users\ben\source\repos\Csharp\C#Eğitim\VeriTipleri\bin\Debug\net9.0\VeriTipleri.deps.json
+C:\Users\ben\source\repos\Csharp\C#Eğitim\VeriTipleri\bin\Debug\net9.0\VeriTipleri.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Eğitim\VeriTipleri\bin\Debug\net9.0\VeriTipleri.dll
+C:\Users\ben\source\repos\Csharp\C#Eğitim\VeriTipleri\bin\Debug\net9.0\VeriTipleri.pdb
+C:\Users\ben\source\repos\Csharp\C#Eğitim\VeriTipleri\obj\Debug\net9.0\VeriTipleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Eğitim\VeriTipleri\obj\Debug\net9.0\VeriTipleri.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Eğitim\VeriTipleri\obj\Debug\net9.0\VeriTipleri.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Eğitim\VeriTipleri\obj\Debug\net9.0\VeriTipleri.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Eğitim\VeriTipleri\obj\Debug\net9.0\VeriTipleri.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Eğitim\VeriTipleri\obj\Debug\net9.0\VeriTipleri.dll
+C:\Users\ben\source\repos\Csharp\C#Eğitim\VeriTipleri\obj\Debug\net9.0\refint\VeriTipleri.dll
+C:\Users\ben\source\repos\Csharp\C#Eğitim\VeriTipleri\obj\Debug\net9.0\VeriTipleri.pdb
+C:\Users\ben\source\repos\Csharp\C#Eğitim\VeriTipleri\obj\Debug\net9.0\VeriTipleri.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Eğitim\VeriTipleri\obj\Debug\net9.0\ref\VeriTipleri.dll
