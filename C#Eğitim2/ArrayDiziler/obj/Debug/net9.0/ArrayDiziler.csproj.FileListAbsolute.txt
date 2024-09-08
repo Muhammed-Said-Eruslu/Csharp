@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ArrayDiziler\bin\Debug\net9.0\ArrayDiziler.exe
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ArrayDiziler\bin\Debug\net9.0\ArrayDiziler.deps.json
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ArrayDiziler\bin\Debug\net9.0\ArrayDiziler.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ArrayDiziler\bin\Debug\net9.0\ArrayDiziler.dll
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ArrayDiziler\bin\Debug\net9.0\ArrayDiziler.pdb
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ArrayDiziler\obj\Debug\net9.0\ArrayDiziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ArrayDiziler\obj\Debug\net9.0\ArrayDiziler.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ArrayDiziler\obj\Debug\net9.0\ArrayDiziler.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ArrayDiziler\obj\Debug\net9.0\ArrayDiziler.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ArrayDiziler\obj\Debug\net9.0\ArrayDiziler.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ArrayDiziler\obj\Debug\net9.0\ArrayDiziler.dll
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ArrayDiziler\obj\Debug\net9.0\refint\ArrayDiziler.dll
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ArrayDiziler\obj\Debug\net9.0\ArrayDiziler.pdb
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ArrayDiziler\obj\Debug\net9.0\ArrayDiziler.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\ArrayDiziler\obj\Debug\net9.0\ref\ArrayDiziler.dll
