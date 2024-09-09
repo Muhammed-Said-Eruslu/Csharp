@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\Problemler\bin\Debug\net9.0\Problemler.exe
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\Problemler\bin\Debug\net9.0\Problemler.deps.json
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\Problemler\bin\Debug\net9.0\Problemler.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\Problemler\bin\Debug\net9.0\Problemler.dll
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\Problemler\bin\Debug\net9.0\Problemler.pdb
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\Problemler\obj\Debug\net9.0\Problemler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\Problemler\obj\Debug\net9.0\Problemler.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\Problemler\obj\Debug\net9.0\Problemler.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\Problemler\obj\Debug\net9.0\Problemler.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\Problemler\obj\Debug\net9.0\Problemler.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\Problemler\obj\Debug\net9.0\Problemler.dll
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\Problemler\obj\Debug\net9.0\refint\Problemler.dll
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\Problemler\obj\Debug\net9.0\Problemler.pdb
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\Problemler\obj\Debug\net9.0\Problemler.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Eğitim2\Problemler\obj\Debug\net9.0\ref\Problemler.dll
