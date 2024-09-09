@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("WhlleDöngüsü(Loop)")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Problemler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b7f64f5b9931019c49cd3a765ff3d9d2567eaf9")]
-[assembly: System.Reflection.AssemblyProductAttribute("WhlleDöngüsü(Loop)")]
-[assembly: System.Reflection.AssemblyTitleAttribute("WhlleDöngüsü(Loop)")]
+[assembly: System.Reflection.AssemblyProductAttribute("Problemler")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Problemler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
