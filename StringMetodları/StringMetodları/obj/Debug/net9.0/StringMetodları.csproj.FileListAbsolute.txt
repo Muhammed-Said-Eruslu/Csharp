@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\StringMetodları\StringMetodları\bin\Debug\net9.0\StringMetodları.exe
+C:\Users\ben\source\repos\Csharp\StringMetodları\StringMetodları\bin\Debug\net9.0\StringMetodları.deps.json
+C:\Users\ben\source\repos\Csharp\StringMetodları\StringMetodları\bin\Debug\net9.0\StringMetodları.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\StringMetodları\StringMetodları\bin\Debug\net9.0\StringMetodları.dll
+C:\Users\ben\source\repos\Csharp\StringMetodları\StringMetodları\bin\Debug\net9.0\StringMetodları.pdb
+C:\Users\ben\source\repos\Csharp\StringMetodları\StringMetodları\obj\Debug\net9.0\StringMetodları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\StringMetodları\StringMetodları\obj\Debug\net9.0\StringMetodları.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\StringMetodları\StringMetodları\obj\Debug\net9.0\StringMetodları.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\StringMetodları\StringMetodları\obj\Debug\net9.0\StringMetodları.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\StringMetodları\StringMetodları\obj\Debug\net9.0\StringMetodları.sourcelink.json
+C:\Users\ben\source\repos\Csharp\StringMetodları\StringMetodları\obj\Debug\net9.0\StringMetodları.dll
+C:\Users\ben\source\repos\Csharp\StringMetodları\StringMetodları\obj\Debug\net9.0\refint\StringMetodları.dll
+C:\Users\ben\source\repos\Csharp\StringMetodları\StringMetodları\obj\Debug\net9.0\StringMetodları.pdb
+C:\Users\ben\source\repos\Csharp\StringMetodları\StringMetodları\obj\Debug\net9.0\StringMetodları.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\StringMetodları\StringMetodları\obj\Debug\net9.0\ref\StringMetodları.dll
