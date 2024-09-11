@@ -1,4 +1,4 @@
-﻿// 0 255 arasında tam sayıları tutan veri tipidir
+﻿// byte veri tipi 0 ile 255 arasında kı sayıları tutar
 
 byte birinci = 5;
-Console.w
+Console.WriteLine(birinci);

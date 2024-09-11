@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ByteVeriTipi\bin\Debug\net9.0\ByteVeriTipi.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ByteVeriTipi\bin\Debug\net9.0\ByteVeriTipi.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ByteVeriTipi\bin\Debug\net9.0\ByteVeriTipi.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ByteVeriTipi\bin\Debug\net9.0\ByteVeriTipi.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ByteVeriTipi\bin\Debug\net9.0\ByteVeriTipi.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ByteVeriTipi\obj\Debug\net9.0\ByteVeriTipi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ByteVeriTipi\obj\Debug\net9.0\ByteVeriTipi.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ByteVeriTipi\obj\Debug\net9.0\ByteVeriTipi.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ByteVeriTipi\obj\Debug\net9.0\ByteVeriTipi.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ByteVeriTipi\obj\Debug\net9.0\ByteVeriTipi.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ByteVeriTipi\obj\Debug\net9.0\ByteVeriTipi.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ByteVeriTipi\obj\Debug\net9.0\refint\ByteVeriTipi.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ByteVeriTipi\obj\Debug\net9.0\ByteVeriTipi.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ByteVeriTipi\obj\Debug\net9.0\ByteVeriTipi.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ByteVeriTipi\obj\Debug\net9.0\ref\ByteVeriTipi.dll
