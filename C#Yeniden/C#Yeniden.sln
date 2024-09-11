@@ -7,11 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YorumSatırıVeHelloWorld1"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeriTipiDataTypes", "VeriTipiDataTypes\VeriTipiDataTypes.csproj", "{D180F9AB-B2D2-4C62-A179-F92F5886E7DB}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VeriTipleri", "VeriTipleri", "{A9C94AA8-C2D6-4D7A-ADF8-3D4AA88F6986}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteVeriTipi", "ByteVeriTipi\ByteVeriTipi.csproj", "{8E9E46F6-0967-4D34-958F-D95B49121B6F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteVeritipi", "VeriTipleri\ByteVeritipi\ByteVeritipi.csproj", "{E8F70C84-EA90-45B7-9520-D266AEF1A54B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,18 +27,11 @@ Global
 		{8E9E46F6-0967-4D34-958F-D95B49121B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E9E46F6-0967-4D34-958F-D95B49121B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E9E46F6-0967-4D34-958F-D95B49121B6F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E8F70C84-EA90-45B7-9520-D266AEF1A54B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E8F70C84-EA90-45B7-9520-D266AEF1A54B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E8F70C84-EA90-45B7-9520-D266AEF1A54B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E8F70C84-EA90-45B7-9520-D266AEF1A54B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8578008-B945-4A7F-8E72-C921EF5CA86C}
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{E8F70C84-EA90-45B7-9520-D266AEF1A54B} = {A9C94AA8-C2D6-4D7A-ADF8-3D4AA88F6986}
 	EndGlobalSection
 EndGlobal
