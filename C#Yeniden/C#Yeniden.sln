@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YorumSatırıVeHelloWorld1"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeriTipiDataTypes", "VeriTipiDataTypes\VeriTipiDataTypes.csproj", "{D180F9AB-B2D2-4C62-A179-F92F5886E7DB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VeriTipleri", "VeriTipleri", "{A9C94AA8-C2D6-4D7A-ADF8-3D4AA88F6986}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
