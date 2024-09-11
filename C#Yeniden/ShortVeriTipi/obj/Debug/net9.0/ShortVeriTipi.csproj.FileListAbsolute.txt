@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ShortVeriTipi\bin\Debug\net9.0\ShortVeriTipi.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ShortVeriTipi\bin\Debug\net9.0\ShortVeriTipi.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ShortVeriTipi\bin\Debug\net9.0\ShortVeriTipi.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ShortVeriTipi\bin\Debug\net9.0\ShortVeriTipi.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ShortVeriTipi\bin\Debug\net9.0\ShortVeriTipi.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ShortVeriTipi\obj\Debug\net9.0\ShortVeriTipi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ShortVeriTipi\obj\Debug\net9.0\ShortVeriTipi.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ShortVeriTipi\obj\Debug\net9.0\ShortVeriTipi.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ShortVeriTipi\obj\Debug\net9.0\ShortVeriTipi.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ShortVeriTipi\obj\Debug\net9.0\ShortVeriTipi.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ShortVeriTipi\obj\Debug\net9.0\ShortVeriTipi.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ShortVeriTipi\obj\Debug\net9.0\refint\ShortVeriTipi.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ShortVeriTipi\obj\Debug\net9.0\ShortVeriTipi.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ShortVeriTipi\obj\Debug\net9.0\ShortVeriTipi.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ShortVeriTipi\obj\Debug\net9.0\ref\ShortVeriTipi.dll
