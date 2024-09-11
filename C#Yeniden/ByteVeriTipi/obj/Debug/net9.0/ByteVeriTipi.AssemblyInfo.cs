@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ByteVeriTipi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4276301685cdd6bf3a6e03cebd9133c2840766cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cff79ab33b3bc282f8d9bbdbde300ed5bb2cca7c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ByteVeriTipi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ByteVeriTipi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
