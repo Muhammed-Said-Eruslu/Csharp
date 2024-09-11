@@ -14,5 +14,5 @@ var result10 = isim.ToUpper(); // bütün karakterleri büyük harfe cevirir
 var result11 = isim.Replace(" ", "-" ); // boslukları - ile değiştir
 var result12 = isim.Remove(4); // belirli bir indexten sonrakıleri atmak için kullanılır
 var result13 = isim.Remove(1,2); // 4 uncu indexten sonra kaç tanesini kaldırıyım // belirli karakterden sonra hangilerini kaldırmak istersen
-var result14 = isim.
-Console.WriteLine(result13);
+var result14 = isim.Contains("Said"); // metnin içinde Said var mı varsa true yoksa false döner
+Console.WriteLine(result14);

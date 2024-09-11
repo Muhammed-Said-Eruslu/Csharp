@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\YorumSatırıVeHelloWorld1\bin\Debug\net9.0\YorumSatırıVeHelloWorld1.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\YorumSatırıVeHelloWorld1\bin\Debug\net9.0\YorumSatırıVeHelloWorld1.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\YorumSatırıVeHelloWorld1\bin\Debug\net9.0\YorumSatırıVeHelloWorld1.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\YorumSatırıVeHelloWorld1\bin\Debug\net9.0\YorumSatırıVeHelloWorld1.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\YorumSatırıVeHelloWorld1\bin\Debug\net9.0\YorumSatırıVeHelloWorld1.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\YorumSatırıVeHelloWorld1\obj\Debug\net9.0\YorumSatırıVeHelloWorld1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\YorumSatırıVeHelloWorld1\obj\Debug\net9.0\YorumSatırıVeHelloWorld1.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\YorumSatırıVeHelloWorld1\obj\Debug\net9.0\YorumSatırıVeHelloWorld1.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\YorumSatırıVeHelloWorld1\obj\Debug\net9.0\YorumSatırıVeHelloWorld1.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\YorumSatırıVeHelloWorld1\obj\Debug\net9.0\YorumSatırıVeHelloWorld1.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\YorumSatırıVeHelloWorld1\obj\Debug\net9.0\YorumSatırıVeHelloWorld1.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\YorumSatırıVeHelloWorld1\obj\Debug\net9.0\refint\YorumSatırıVeHelloWorld1.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\YorumSatırıVeHelloWorld1\obj\Debug\net9.0\YorumSatırıVeHelloWorld1.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\YorumSatırıVeHelloWorld1\obj\Debug\net9.0\YorumSatırıVeHelloWorld1.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\YorumSatırıVeHelloWorld1\obj\Debug\net9.0\ref\YorumSatırıVeHelloWorld1.dll
