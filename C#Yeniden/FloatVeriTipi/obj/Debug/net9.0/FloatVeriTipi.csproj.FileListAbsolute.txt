@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\FloatVeriTipi\bin\Debug\net9.0\FloatVeriTipi.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\FloatVeriTipi\bin\Debug\net9.0\FloatVeriTipi.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\FloatVeriTipi\bin\Debug\net9.0\FloatVeriTipi.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\FloatVeriTipi\bin\Debug\net9.0\FloatVeriTipi.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\FloatVeriTipi\bin\Debug\net9.0\FloatVeriTipi.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\FloatVeriTipi\obj\Debug\net9.0\FloatVeriTipi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\FloatVeriTipi\obj\Debug\net9.0\FloatVeriTipi.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\FloatVeriTipi\obj\Debug\net9.0\FloatVeriTipi.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\FloatVeriTipi\obj\Debug\net9.0\FloatVeriTipi.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\FloatVeriTipi\obj\Debug\net9.0\FloatVeriTipi.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\FloatVeriTipi\obj\Debug\net9.0\FloatVeriTipi.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\FloatVeriTipi\obj\Debug\net9.0\refint\FloatVeriTipi.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\FloatVeriTipi\obj\Debug\net9.0\FloatVeriTipi.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\FloatVeriTipi\obj\Debug\net9.0\FloatVeriTipi.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\FloatVeriTipi\obj\Debug\net9.0\ref\FloatVeriTipi.dll

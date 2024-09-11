@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İntVeriTipi\bin\Debug\net9.0\İntVeriTipi.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İntVeriTipi\bin\Debug\net9.0\İntVeriTipi.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İntVeriTipi\bin\Debug\net9.0\İntVeriTipi.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İntVeriTipi\bin\Debug\net9.0\İntVeriTipi.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İntVeriTipi\bin\Debug\net9.0\İntVeriTipi.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İntVeriTipi\obj\Debug\net9.0\İntVeriTipi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İntVeriTipi\obj\Debug\net9.0\İntVeriTipi.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İntVeriTipi\obj\Debug\net9.0\İntVeriTipi.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İntVeriTipi\obj\Debug\net9.0\İntVeriTipi.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İntVeriTipi\obj\Debug\net9.0\İntVeriTipi.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İntVeriTipi\obj\Debug\net9.0\İntVeriTipi.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İntVeriTipi\obj\Debug\net9.0\refint\İntVeriTipi.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İntVeriTipi\obj\Debug\net9.0\İntVeriTipi.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İntVeriTipi\obj\Debug\net9.0\İntVeriTipi.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İntVeriTipi\obj\Debug\net9.0\ref\İntVeriTipi.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("İntVeriTipi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0efb3e47fa1708793f2cce089fdd31dc69b3be0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+826493b4b50e4e9450bd817a939b17da2e2c3d88")]
 [assembly: System.Reflection.AssemblyProductAttribute("İntVeriTipi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("İntVeriTipi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
