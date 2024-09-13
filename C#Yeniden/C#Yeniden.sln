@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoolVeriTipi", "BoolVeriTip
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectVeriTipi", "ObjectVeriTipi\ObjectVeriTipi.csproj", "{37BB7F67-1DC6-43C1-BD61-9E250FA88480}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToplamaOperatörü", "ToplamaOperatörü\ToplamaOperatörü.csproj", "{DBA2E571-C5F8-4AE8-BF53-C49F21A1D212}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ÇarpmaVeBölme", "ÇarpmaVeBölme\ÇarpmaVeBölme.csproj", "{86BCABD8-34E8-46F2-9256-A8233EDD8843}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{37BB7F67-1DC6-43C1-BD61-9E250FA88480}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37BB7F67-1DC6-43C1-BD61-9E250FA88480}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37BB7F67-1DC6-43C1-BD61-9E250FA88480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBA2E571-C5F8-4AE8-BF53-C49F21A1D212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA2E571-C5F8-4AE8-BF53-C49F21A1D212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA2E571-C5F8-4AE8-BF53-C49F21A1D212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA2E571-C5F8-4AE8-BF53-C49F21A1D212}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86BCABD8-34E8-46F2-9256-A8233EDD8843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86BCABD8-34E8-46F2-9256-A8233EDD8843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86BCABD8-34E8-46F2-9256-A8233EDD8843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86BCABD8-34E8-46F2-9256-A8233EDD8843}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

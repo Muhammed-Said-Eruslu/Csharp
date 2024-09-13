@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ÇarpmaVeBölme\bin\Debug\net9.0\ÇarpmaVeBölme.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ÇarpmaVeBölme\bin\Debug\net9.0\ÇarpmaVeBölme.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ÇarpmaVeBölme\bin\Debug\net9.0\ÇarpmaVeBölme.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ÇarpmaVeBölme\bin\Debug\net9.0\ÇarpmaVeBölme.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ÇarpmaVeBölme\bin\Debug\net9.0\ÇarpmaVeBölme.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ÇarpmaVeBölme\obj\Debug\net9.0\ÇarpmaVeBölme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ÇarpmaVeBölme\obj\Debug\net9.0\ÇarpmaVeBölme.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ÇarpmaVeBölme\obj\Debug\net9.0\ÇarpmaVeBölme.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ÇarpmaVeBölme\obj\Debug\net9.0\ÇarpmaVeBölme.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ÇarpmaVeBölme\obj\Debug\net9.0\ÇarpmaVeBölme.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ÇarpmaVeBölme\obj\Debug\net9.0\ÇarpmaVeBölme.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ÇarpmaVeBölme\obj\Debug\net9.0\refint\ÇarpmaVeBölme.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ÇarpmaVeBölme\obj\Debug\net9.0\ÇarpmaVeBölme.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ÇarpmaVeBölme\obj\Debug\net9.0\ÇarpmaVeBölme.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ÇarpmaVeBölme\obj\Debug\net9.0\ref\ÇarpmaVeBölme.dll

@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ToplamaOperatörü\bin\Debug\net9.0\ToplamaOperatörü.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ToplamaOperatörü\bin\Debug\net9.0\ToplamaOperatörü.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ToplamaOperatörü\bin\Debug\net9.0\ToplamaOperatörü.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ToplamaOperatörü\bin\Debug\net9.0\ToplamaOperatörü.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ToplamaOperatörü\bin\Debug\net9.0\ToplamaOperatörü.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ToplamaOperatörü\obj\Debug\net9.0\ToplamaOperatörü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ToplamaOperatörü\obj\Debug\net9.0\ToplamaOperatörü.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ToplamaOperatörü\obj\Debug\net9.0\ToplamaOperatörü.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ToplamaOperatörü\obj\Debug\net9.0\ToplamaOperatörü.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ToplamaOperatörü\obj\Debug\net9.0\ToplamaOperatörü.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ToplamaOperatörü\obj\Debug\net9.0\ToplamaOperatörü.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ToplamaOperatörü\obj\Debug\net9.0\refint\ToplamaOperatörü.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ToplamaOperatörü\obj\Debug\net9.0\ToplamaOperatörü.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ToplamaOperatörü\obj\Debug\net9.0\ToplamaOperatörü.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ToplamaOperatörü\obj\Debug\net9.0\ref\ToplamaOperatörü.dll
