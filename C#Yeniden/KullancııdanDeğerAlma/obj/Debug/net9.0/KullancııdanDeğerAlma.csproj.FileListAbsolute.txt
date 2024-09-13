@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KullancııdanDeğerAlma\bin\Debug\net9.0\KullancııdanDeğerAlma.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KullancııdanDeğerAlma\bin\Debug\net9.0\KullancııdanDeğerAlma.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KullancııdanDeğerAlma\bin\Debug\net9.0\KullancııdanDeğerAlma.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KullancııdanDeğerAlma\bin\Debug\net9.0\KullancııdanDeğerAlma.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KullancııdanDeğerAlma\bin\Debug\net9.0\KullancııdanDeğerAlma.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KullancııdanDeğerAlma\obj\Debug\net9.0\KullancııdanDeğerAlma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KullancııdanDeğerAlma\obj\Debug\net9.0\KullancııdanDeğerAlma.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KullancııdanDeğerAlma\obj\Debug\net9.0\KullancııdanDeğerAlma.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KullancııdanDeğerAlma\obj\Debug\net9.0\KullancııdanDeğerAlma.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KullancııdanDeğerAlma\obj\Debug\net9.0\KullancııdanDeğerAlma.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KullancııdanDeğerAlma\obj\Debug\net9.0\KullancııdanDeğerAlma.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KullancııdanDeğerAlma\obj\Debug\net9.0\refint\KullancııdanDeğerAlma.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KullancııdanDeğerAlma\obj\Debug\net9.0\KullancııdanDeğerAlma.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KullancııdanDeğerAlma\obj\Debug\net9.0\KullancııdanDeğerAlma.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KullancııdanDeğerAlma\obj\Debug\net9.0\ref\KullancııdanDeğerAlma.dll

@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\TürDönüşümleri\bin\Debug\net9.0\TürDönüşümleri.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\TürDönüşümleri\bin\Debug\net9.0\TürDönüşümleri.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\TürDönüşümleri\bin\Debug\net9.0\TürDönüşümleri.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\TürDönüşümleri\bin\Debug\net9.0\TürDönüşümleri.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\TürDönüşümleri\bin\Debug\net9.0\TürDönüşümleri.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\TürDönüşümleri\obj\Debug\net9.0\TürDönüşümleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\TürDönüşümleri\obj\Debug\net9.0\TürDönüşümleri.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\TürDönüşümleri\obj\Debug\net9.0\TürDönüşümleri.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\TürDönüşümleri\obj\Debug\net9.0\TürDönüşümleri.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\TürDönüşümleri\obj\Debug\net9.0\TürDönüşümleri.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\TürDönüşümleri\obj\Debug\net9.0\TürDönüşümleri.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\TürDönüşümleri\obj\Debug\net9.0\refint\TürDönüşümleri.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\TürDönüşümleri\obj\Debug\net9.0\TürDönüşümleri.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\TürDönüşümleri\obj\Debug\net9.0\TürDönüşümleri.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\TürDönüşümleri\obj\Debug\net9.0\ref\TürDönüşümleri.dll

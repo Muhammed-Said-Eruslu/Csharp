@@ -11,3 +11,4 @@ a -= 4;
 a *= 4;
 a /=4;
 a %= 4;
+Console.ReadLine();
