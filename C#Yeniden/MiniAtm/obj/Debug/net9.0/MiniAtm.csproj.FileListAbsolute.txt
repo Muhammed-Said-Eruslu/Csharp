@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\MiniAtm\bin\Debug\net9.0\MiniAtm.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\MiniAtm\bin\Debug\net9.0\MiniAtm.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\MiniAtm\bin\Debug\net9.0\MiniAtm.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\MiniAtm\bin\Debug\net9.0\MiniAtm.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\MiniAtm\bin\Debug\net9.0\MiniAtm.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\MiniAtm\obj\Debug\net9.0\MiniAtm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\MiniAtm\obj\Debug\net9.0\MiniAtm.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\MiniAtm\obj\Debug\net9.0\MiniAtm.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\MiniAtm\obj\Debug\net9.0\MiniAtm.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\MiniAtm\obj\Debug\net9.0\MiniAtm.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\MiniAtm\obj\Debug\net9.0\MiniAtm.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\MiniAtm\obj\Debug\net9.0\refint\MiniAtm.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\MiniAtm\obj\Debug\net9.0\MiniAtm.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\MiniAtm\obj\Debug\net9.0\MiniAtm.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\MiniAtm\obj\Debug\net9.0\ref\MiniAtm.dll

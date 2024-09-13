@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\OrtalamayaGöreGeçmeNotu\bin\Debug\net9.0\OrtalamayaGöreGeçmeNotu.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\OrtalamayaGöreGeçmeNotu\bin\Debug\net9.0\OrtalamayaGöreGeçmeNotu.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\OrtalamayaGöreGeçmeNotu\bin\Debug\net9.0\OrtalamayaGöreGeçmeNotu.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\OrtalamayaGöreGeçmeNotu\bin\Debug\net9.0\OrtalamayaGöreGeçmeNotu.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\OrtalamayaGöreGeçmeNotu\bin\Debug\net9.0\OrtalamayaGöreGeçmeNotu.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\OrtalamayaGöreGeçmeNotu\obj\Debug\net9.0\OrtalamayaGöreGeçmeNotu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\OrtalamayaGöreGeçmeNotu\obj\Debug\net9.0\OrtalamayaGöreGeçmeNotu.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\OrtalamayaGöreGeçmeNotu\obj\Debug\net9.0\OrtalamayaGöreGeçmeNotu.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\OrtalamayaGöreGeçmeNotu\obj\Debug\net9.0\OrtalamayaGöreGeçmeNotu.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\OrtalamayaGöreGeçmeNotu\obj\Debug\net9.0\OrtalamayaGöreGeçmeNotu.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\OrtalamayaGöreGeçmeNotu\obj\Debug\net9.0\OrtalamayaGöreGeçmeNotu.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\OrtalamayaGöreGeçmeNotu\obj\Debug\net9.0\refint\OrtalamayaGöreGeçmeNotu.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\OrtalamayaGöreGeçmeNotu\obj\Debug\net9.0\OrtalamayaGöreGeçmeNotu.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\OrtalamayaGöreGeçmeNotu\obj\Debug\net9.0\OrtalamayaGöreGeçmeNotu.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\OrtalamayaGöreGeçmeNotu\obj\Debug\net9.0\ref\OrtalamayaGöreGeçmeNotu.dll

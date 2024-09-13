@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İfElseKontrolYapıları\bin\Debug\net9.0\İfElseKontrolYapıları.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İfElseKontrolYapıları\bin\Debug\net9.0\İfElseKontrolYapıları.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İfElseKontrolYapıları\bin\Debug\net9.0\İfElseKontrolYapıları.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İfElseKontrolYapıları\bin\Debug\net9.0\İfElseKontrolYapıları.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İfElseKontrolYapıları\bin\Debug\net9.0\İfElseKontrolYapıları.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İfElseKontrolYapıları\obj\Debug\net9.0\İfElseKontrolYapıları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İfElseKontrolYapıları\obj\Debug\net9.0\İfElseKontrolYapıları.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İfElseKontrolYapıları\obj\Debug\net9.0\İfElseKontrolYapıları.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İfElseKontrolYapıları\obj\Debug\net9.0\İfElseKontrolYapıları.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İfElseKontrolYapıları\obj\Debug\net9.0\İfElseKontrolYapıları.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İfElseKontrolYapıları\obj\Debug\net9.0\İfElseKontrolYapıları.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İfElseKontrolYapıları\obj\Debug\net9.0\refint\İfElseKontrolYapıları.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İfElseKontrolYapıları\obj\Debug\net9.0\İfElseKontrolYapıları.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İfElseKontrolYapıları\obj\Debug\net9.0\İfElseKontrolYapıları.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İfElseKontrolYapıları\obj\Debug\net9.0\ref\İfElseKontrolYapıları.dll
