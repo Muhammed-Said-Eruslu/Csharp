@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\EkOparatörleri\bin\Debug\net9.0\EkOparatörleri.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\EkOparatörleri\bin\Debug\net9.0\EkOparatörleri.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\EkOparatörleri\bin\Debug\net9.0\EkOparatörleri.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\EkOparatörleri\bin\Debug\net9.0\EkOparatörleri.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\EkOparatörleri\bin\Debug\net9.0\EkOparatörleri.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\EkOparatörleri\obj\Debug\net9.0\EkOparatörleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\EkOparatörleri\obj\Debug\net9.0\EkOparatörleri.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\EkOparatörleri\obj\Debug\net9.0\EkOparatörleri.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\EkOparatörleri\obj\Debug\net9.0\EkOparatörleri.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\EkOparatörleri\obj\Debug\net9.0\EkOparatörleri.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\EkOparatörleri\obj\Debug\net9.0\EkOparatörleri.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\EkOparatörleri\obj\Debug\net9.0\refint\EkOparatörleri.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\EkOparatörleri\obj\Debug\net9.0\EkOparatörleri.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\EkOparatörleri\obj\Debug\net9.0\EkOparatörleri.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\EkOparatörleri\obj\Debug\net9.0\ref\EkOparatörleri.dll

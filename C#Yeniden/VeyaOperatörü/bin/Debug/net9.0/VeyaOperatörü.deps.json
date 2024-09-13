@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "VeyaOperatörü/1.0.0": {
+        "runtime": {
+          "VeyaOperatörü.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VeyaOperatörü/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

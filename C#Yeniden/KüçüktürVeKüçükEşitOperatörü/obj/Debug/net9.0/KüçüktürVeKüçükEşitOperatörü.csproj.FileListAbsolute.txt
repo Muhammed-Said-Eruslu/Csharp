@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KüçüktürVeKüçükEşitOperatörü\bin\Debug\net9.0\KüçüktürVeKüçükEşitOperatörü.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KüçüktürVeKüçükEşitOperatörü\bin\Debug\net9.0\KüçüktürVeKüçükEşitOperatörü.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KüçüktürVeKüçükEşitOperatörü\bin\Debug\net9.0\KüçüktürVeKüçükEşitOperatörü.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KüçüktürVeKüçükEşitOperatörü\bin\Debug\net9.0\KüçüktürVeKüçükEşitOperatörü.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KüçüktürVeKüçükEşitOperatörü\bin\Debug\net9.0\KüçüktürVeKüçükEşitOperatörü.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KüçüktürVeKüçükEşitOperatörü\obj\Debug\net9.0\KüçüktürVeKüçükEşitOperatörü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KüçüktürVeKüçükEşitOperatörü\obj\Debug\net9.0\KüçüktürVeKüçükEşitOperatörü.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KüçüktürVeKüçükEşitOperatörü\obj\Debug\net9.0\KüçüktürVeKüçükEşitOperatörü.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KüçüktürVeKüçükEşitOperatörü\obj\Debug\net9.0\KüçüktürVeKüçükEşitOperatörü.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KüçüktürVeKüçükEşitOperatörü\obj\Debug\net9.0\KüçüktürVeKüçükEşitOperatörü.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KüçüktürVeKüçükEşitOperatörü\obj\Debug\net9.0\KüçüktürVeKüçükEşitOperatörü.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KüçüktürVeKüçükEşitOperatörü\obj\Debug\net9.0\refint\KüçüktürVeKüçükEşitOperatörü.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KüçüktürVeKüçükEşitOperatörü\obj\Debug\net9.0\KüçüktürVeKüçükEşitOperatörü.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KüçüktürVeKüçükEşitOperatörü\obj\Debug\net9.0\KüçüktürVeKüçükEşitOperatörü.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KüçüktürVeKüçükEşitOperatörü\obj\Debug\net9.0\ref\KüçüktürVeKüçükEşitOperatörü.dll

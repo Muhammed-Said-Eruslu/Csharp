@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ModAlmaOperatörü\bin\Debug\net9.0\ModAlmaOperatörü.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ModAlmaOperatörü\bin\Debug\net9.0\ModAlmaOperatörü.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ModAlmaOperatörü\bin\Debug\net9.0\ModAlmaOperatörü.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ModAlmaOperatörü\bin\Debug\net9.0\ModAlmaOperatörü.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ModAlmaOperatörü\bin\Debug\net9.0\ModAlmaOperatörü.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ModAlmaOperatörü\obj\Debug\net9.0\ModAlmaOperatörü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ModAlmaOperatörü\obj\Debug\net9.0\ModAlmaOperatörü.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ModAlmaOperatörü\obj\Debug\net9.0\ModAlmaOperatörü.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ModAlmaOperatörü\obj\Debug\net9.0\ModAlmaOperatörü.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ModAlmaOperatörü\obj\Debug\net9.0\ModAlmaOperatörü.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ModAlmaOperatörü\obj\Debug\net9.0\ModAlmaOperatörü.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ModAlmaOperatörü\obj\Debug\net9.0\refint\ModAlmaOperatörü.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ModAlmaOperatörü\obj\Debug\net9.0\ModAlmaOperatörü.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ModAlmaOperatörü\obj\Debug\net9.0\ModAlmaOperatörü.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ModAlmaOperatörü\obj\Debug\net9.0\ref\ModAlmaOperatörü.dll
