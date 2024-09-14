@@ -73,6 +73,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "İçİçeForDöngüsü", "�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "İçİçeForDongusu", "İçİçeForDongusu\İçİçeForDongusu.csproj", "{EDC34B5B-693E-490A-884A-B95FF6602D0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileDöngüsü", "WhileDöngüsü\WhileDöngüsü.csproj", "{3776461B-CC2E-481A-B17E-C84AA07B2095}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +221,10 @@ Global
 		{EDC34B5B-693E-490A-884A-B95FF6602D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDC34B5B-693E-490A-884A-B95FF6602D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDC34B5B-693E-490A-884A-B95FF6602D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3776461B-CC2E-481A-B17E-C84AA07B2095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3776461B-CC2E-481A-B17E-C84AA07B2095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3776461B-CC2E-481A-B17E-C84AA07B2095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3776461B-CC2E-481A-B17E-C84AA07B2095}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

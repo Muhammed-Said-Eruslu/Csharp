@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\WhileDöngüsü\bin\Debug\net9.0\WhileDöngüsü.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\WhileDöngüsü\bin\Debug\net9.0\WhileDöngüsü.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\WhileDöngüsü\bin\Debug\net9.0\WhileDöngüsü.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\WhileDöngüsü\bin\Debug\net9.0\WhileDöngüsü.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\WhileDöngüsü\bin\Debug\net9.0\WhileDöngüsü.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\WhileDöngüsü\obj\Debug\net9.0\WhileDöngüsü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\WhileDöngüsü\obj\Debug\net9.0\WhileDöngüsü.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\WhileDöngüsü\obj\Debug\net9.0\WhileDöngüsü.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\WhileDöngüsü\obj\Debug\net9.0\WhileDöngüsü.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\WhileDöngüsü\obj\Debug\net9.0\WhileDöngüsü.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\WhileDöngüsü\obj\Debug\net9.0\WhileDöngüsü.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\WhileDöngüsü\obj\Debug\net9.0\refint\WhileDöngüsü.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\WhileDöngüsü\obj\Debug\net9.0\WhileDöngüsü.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\WhileDöngüsü\obj\Debug\net9.0\WhileDöngüsü.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\WhileDöngüsü\obj\Debug\net9.0\ref\WhileDöngüsü.dll
