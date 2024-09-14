@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\BedenKitleİndeksi\bin\Debug\net9.0\BedenKitleİndeksi.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\BedenKitleİndeksi\bin\Debug\net9.0\BedenKitleİndeksi.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\BedenKitleİndeksi\bin\Debug\net9.0\BedenKitleİndeksi.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\BedenKitleİndeksi\bin\Debug\net9.0\BedenKitleİndeksi.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\BedenKitleİndeksi\bin\Debug\net9.0\BedenKitleİndeksi.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\BedenKitleİndeksi\obj\Debug\net9.0\BedenKitleİndeksi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\BedenKitleİndeksi\obj\Debug\net9.0\BedenKitleİndeksi.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\BedenKitleİndeksi\obj\Debug\net9.0\BedenKitleİndeksi.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\BedenKitleİndeksi\obj\Debug\net9.0\BedenKitleİndeksi.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\BedenKitleİndeksi\obj\Debug\net9.0\BedenKitleİndeksi.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\BedenKitleİndeksi\obj\Debug\net9.0\BedenKitleİndeksi.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\BedenKitleİndeksi\obj\Debug\net9.0\refint\BedenKitleİndeksi.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\BedenKitleİndeksi\obj\Debug\net9.0\BedenKitleİndeksi.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\BedenKitleİndeksi\obj\Debug\net9.0\BedenKitleİndeksi.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\BedenKitleİndeksi\obj\Debug\net9.0\ref\BedenKitleİndeksi.dll

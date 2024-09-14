@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrtalamayaGöreGeçmeNotu",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniAtm", "MiniAtm\MiniAtm.csproj", "{1F1CD9F0-FD64-4C1F-90A5-C25C247B6E75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BedenKitleİndeksi", "BedenKitleİndeksi\BedenKitleİndeksi.csproj", "{4FF7E5B0-6DEE-4D7D-ACFD-395BFBC77DB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{1F1CD9F0-FD64-4C1F-90A5-C25C247B6E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F1CD9F0-FD64-4C1F-90A5-C25C247B6E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F1CD9F0-FD64-4C1F-90A5-C25C247B6E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FF7E5B0-6DEE-4D7D-ACFD-395BFBC77DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FF7E5B0-6DEE-4D7D-ACFD-395BFBC77DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FF7E5B0-6DEE-4D7D-ACFD-395BFBC77DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FF7E5B0-6DEE-4D7D-ACFD-395BFBC77DB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
