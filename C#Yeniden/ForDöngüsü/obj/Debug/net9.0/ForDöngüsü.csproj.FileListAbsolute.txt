@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ForDöngüsü\bin\Debug\net9.0\ForDöngüsü.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ForDöngüsü\bin\Debug\net9.0\ForDöngüsü.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ForDöngüsü\bin\Debug\net9.0\ForDöngüsü.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ForDöngüsü\bin\Debug\net9.0\ForDöngüsü.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ForDöngüsü\bin\Debug\net9.0\ForDöngüsü.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ForDöngüsü\obj\Debug\net9.0\ForDöngüsü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ForDöngüsü\obj\Debug\net9.0\ForDöngüsü.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ForDöngüsü\obj\Debug\net9.0\ForDöngüsü.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ForDöngüsü\obj\Debug\net9.0\ForDöngüsü.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ForDöngüsü\obj\Debug\net9.0\ForDöngüsü.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ForDöngüsü\obj\Debug\net9.0\ForDöngüsü.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ForDöngüsü\obj\Debug\net9.0\refint\ForDöngüsü.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ForDöngüsü\obj\Debug\net9.0\ForDöngüsü.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ForDöngüsü\obj\Debug\net9.0\ForDöngüsü.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ForDöngüsü\obj\Debug\net9.0\ref\ForDöngüsü.dll

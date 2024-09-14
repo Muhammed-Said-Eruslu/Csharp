@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İçİçeForDongusu\bin\Debug\net9.0\İçİçeForDongusu.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İçİçeForDongusu\bin\Debug\net9.0\İçİçeForDongusu.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İçİçeForDongusu\bin\Debug\net9.0\İçİçeForDongusu.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İçİçeForDongusu\bin\Debug\net9.0\İçİçeForDongusu.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İçİçeForDongusu\bin\Debug\net9.0\İçİçeForDongusu.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İçİçeForDongusu\obj\Debug\net9.0\İçİçeForDongusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İçİçeForDongusu\obj\Debug\net9.0\İçİçeForDongusu.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İçİçeForDongusu\obj\Debug\net9.0\İçİçeForDongusu.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İçİçeForDongusu\obj\Debug\net9.0\İçİçeForDongusu.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İçİçeForDongusu\obj\Debug\net9.0\İçİçeForDongusu.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İçİçeForDongusu\obj\Debug\net9.0\İçİçeForDongusu.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İçİçeForDongusu\obj\Debug\net9.0\refint\İçİçeForDongusu.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İçİçeForDongusu\obj\Debug\net9.0\İçİçeForDongusu.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İçİçeForDongusu\obj\Debug\net9.0\İçİçeForDongusu.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\İçİçeForDongusu\obj\Debug\net9.0\ref\İçİçeForDongusu.dll
