@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\LogınUygulaması\bin\Debug\net9.0\LogınUygulaması.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\LogınUygulaması\bin\Debug\net9.0\LogınUygulaması.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\LogınUygulaması\bin\Debug\net9.0\LogınUygulaması.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\LogınUygulaması\bin\Debug\net9.0\LogınUygulaması.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\LogınUygulaması\bin\Debug\net9.0\LogınUygulaması.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\LogınUygulaması\obj\Debug\net9.0\LogınUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\LogınUygulaması\obj\Debug\net9.0\LogınUygulaması.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\LogınUygulaması\obj\Debug\net9.0\LogınUygulaması.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\LogınUygulaması\obj\Debug\net9.0\LogınUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\LogınUygulaması\obj\Debug\net9.0\LogınUygulaması.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\LogınUygulaması\obj\Debug\net9.0\LogınUygulaması.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\LogınUygulaması\obj\Debug\net9.0\refint\LogınUygulaması.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\LogınUygulaması\obj\Debug\net9.0\LogınUygulaması.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\LogınUygulaması\obj\Debug\net9.0\LogınUygulaması.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\LogınUygulaması\obj\Debug\net9.0\ref\LogınUygulaması.dll

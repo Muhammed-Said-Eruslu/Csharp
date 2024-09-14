@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\AlınanSayı\bin\Debug\net9.0\AlınanSayı.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\AlınanSayı\bin\Debug\net9.0\AlınanSayı.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\AlınanSayı\bin\Debug\net9.0\AlınanSayı.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\AlınanSayı\bin\Debug\net9.0\AlınanSayı.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\AlınanSayı\bin\Debug\net9.0\AlınanSayı.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\AlınanSayı\obj\Debug\net9.0\AlınanSayı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\AlınanSayı\obj\Debug\net9.0\AlınanSayı.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\AlınanSayı\obj\Debug\net9.0\AlınanSayı.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\AlınanSayı\obj\Debug\net9.0\AlınanSayı.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\AlınanSayı\obj\Debug\net9.0\AlınanSayı.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\AlınanSayı\obj\Debug\net9.0\AlınanSayı.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\AlınanSayı\obj\Debug\net9.0\refint\AlınanSayı.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\AlınanSayı\obj\Debug\net9.0\AlınanSayı.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\AlınanSayı\obj\Debug\net9.0\AlınanSayı.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\AlınanSayı\obj\Debug\net9.0\ref\AlınanSayı.dll

@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\BreakVeContıune\bin\Debug\net9.0\BreakVeContıune.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\BreakVeContıune\bin\Debug\net9.0\BreakVeContıune.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\BreakVeContıune\bin\Debug\net9.0\BreakVeContıune.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\BreakVeContıune\bin\Debug\net9.0\BreakVeContıune.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\BreakVeContıune\bin\Debug\net9.0\BreakVeContıune.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\BreakVeContıune\obj\Debug\net9.0\BreakVeContıune.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\BreakVeContıune\obj\Debug\net9.0\BreakVeContıune.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\BreakVeContıune\obj\Debug\net9.0\BreakVeContıune.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\BreakVeContıune\obj\Debug\net9.0\BreakVeContıune.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\BreakVeContıune\obj\Debug\net9.0\BreakVeContıune.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\BreakVeContıune\obj\Debug\net9.0\BreakVeContıune.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\BreakVeContıune\obj\Debug\net9.0\refint\BreakVeContıune.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\BreakVeContıune\obj\Debug\net9.0\BreakVeContıune.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\BreakVeContıune\obj\Debug\net9.0\BreakVeContıune.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\BreakVeContıune\obj\Debug\net9.0\ref\BreakVeContıune.dll

@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ForİleÇarpımTablosu\bin\Debug\net9.0\ForİleÇarpımTablosu.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ForİleÇarpımTablosu\bin\Debug\net9.0\ForİleÇarpımTablosu.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ForİleÇarpımTablosu\bin\Debug\net9.0\ForİleÇarpımTablosu.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ForİleÇarpımTablosu\bin\Debug\net9.0\ForİleÇarpımTablosu.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ForİleÇarpımTablosu\bin\Debug\net9.0\ForİleÇarpımTablosu.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ForİleÇarpımTablosu\obj\Debug\net9.0\ForİleÇarpımTablosu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ForİleÇarpımTablosu\obj\Debug\net9.0\ForİleÇarpımTablosu.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ForİleÇarpımTablosu\obj\Debug\net9.0\ForİleÇarpımTablosu.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ForİleÇarpımTablosu\obj\Debug\net9.0\ForİleÇarpımTablosu.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ForİleÇarpımTablosu\obj\Debug\net9.0\ForİleÇarpımTablosu.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ForİleÇarpımTablosu\obj\Debug\net9.0\ForİleÇarpımTablosu.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ForİleÇarpımTablosu\obj\Debug\net9.0\refint\ForİleÇarpımTablosu.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ForİleÇarpımTablosu\obj\Debug\net9.0\ForİleÇarpımTablosu.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ForİleÇarpımTablosu\obj\Debug\net9.0\ForİleÇarpımTablosu.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ForİleÇarpımTablosu\obj\Debug\net9.0\ref\ForİleÇarpımTablosu.dll
