@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\VeriTipleriDizi\bin\Debug\net9.0\VeriTipleriDizi.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\VeriTipleriDizi\bin\Debug\net9.0\VeriTipleriDizi.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\VeriTipleriDizi\bin\Debug\net9.0\VeriTipleriDizi.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\VeriTipleriDizi\bin\Debug\net9.0\VeriTipleriDizi.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\VeriTipleriDizi\bin\Debug\net9.0\VeriTipleriDizi.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\VeriTipleriDizi\obj\Debug\net9.0\VeriTipleriDizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\VeriTipleriDizi\obj\Debug\net9.0\VeriTipleriDizi.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\VeriTipleriDizi\obj\Debug\net9.0\VeriTipleriDizi.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\VeriTipleriDizi\obj\Debug\net9.0\VeriTipleriDizi.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\VeriTipleriDizi\obj\Debug\net9.0\VeriTipleriDizi.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\VeriTipleriDizi\obj\Debug\net9.0\VeriTipleriDizi.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\VeriTipleriDizi\obj\Debug\net9.0\refint\VeriTipleriDizi.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\VeriTipleriDizi\obj\Debug\net9.0\VeriTipleriDizi.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\VeriTipleriDizi\obj\Debug\net9.0\VeriTipleriDizi.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\VeriTipleriDizi\obj\Debug\net9.0\ref\VeriTipleriDizi.dll

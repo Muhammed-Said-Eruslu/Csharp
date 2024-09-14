@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\DiziTanımlama\bin\Debug\net9.0\DiziTanımlama.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\DiziTanımlama\bin\Debug\net9.0\DiziTanımlama.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\DiziTanımlama\bin\Debug\net9.0\DiziTanımlama.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\DiziTanımlama\bin\Debug\net9.0\DiziTanımlama.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\DiziTanımlama\bin\Debug\net9.0\DiziTanımlama.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\DiziTanımlama\obj\Debug\net9.0\DiziTanımlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\DiziTanımlama\obj\Debug\net9.0\DiziTanımlama.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\DiziTanımlama\obj\Debug\net9.0\DiziTanımlama.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\DiziTanımlama\obj\Debug\net9.0\DiziTanımlama.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\DiziTanımlama\obj\Debug\net9.0\DiziTanımlama.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\DiziTanımlama\obj\Debug\net9.0\DiziTanımlama.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\DiziTanımlama\obj\Debug\net9.0\refint\DiziTanımlama.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\DiziTanımlama\obj\Debug\net9.0\DiziTanımlama.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\DiziTanımlama\obj\Debug\net9.0\DiziTanımlama.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\DiziTanımlama\obj\Debug\net9.0\ref\DiziTanımlama.dll

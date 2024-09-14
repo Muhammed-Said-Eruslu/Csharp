@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\DizininElemanlarınıAlma\bin\Debug\net9.0\DizininElemanlarınıAlma.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\DizininElemanlarınıAlma\bin\Debug\net9.0\DizininElemanlarınıAlma.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\DizininElemanlarınıAlma\bin\Debug\net9.0\DizininElemanlarınıAlma.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\DizininElemanlarınıAlma\bin\Debug\net9.0\DizininElemanlarınıAlma.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\DizininElemanlarınıAlma\bin\Debug\net9.0\DizininElemanlarınıAlma.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\DizininElemanlarınıAlma\obj\Debug\net9.0\DizininElemanlarınıAlma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\DizininElemanlarınıAlma\obj\Debug\net9.0\DizininElemanlarınıAlma.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\DizininElemanlarınıAlma\obj\Debug\net9.0\DizininElemanlarınıAlma.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\DizininElemanlarınıAlma\obj\Debug\net9.0\DizininElemanlarınıAlma.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\DizininElemanlarınıAlma\obj\Debug\net9.0\DizininElemanlarınıAlma.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\DizininElemanlarınıAlma\obj\Debug\net9.0\DizininElemanlarınıAlma.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\DizininElemanlarınıAlma\obj\Debug\net9.0\refint\DizininElemanlarınıAlma.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\DizininElemanlarınıAlma\obj\Debug\net9.0\DizininElemanlarınıAlma.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\DizininElemanlarınıAlma\obj\Debug\net9.0\DizininElemanlarınıAlma.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\DizininElemanlarınıAlma\obj\Debug\net9.0\ref\DizininElemanlarınıAlma.dll

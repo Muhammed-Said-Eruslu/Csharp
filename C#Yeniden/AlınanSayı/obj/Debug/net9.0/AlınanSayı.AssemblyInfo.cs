@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlınanSayı")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4db1bb86956ca2a855a61b3647b8f44923be9b98")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03bd1a647548f101bc9c665f36c19c25b2804c98")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlınanSayı")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlınanSayı")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
