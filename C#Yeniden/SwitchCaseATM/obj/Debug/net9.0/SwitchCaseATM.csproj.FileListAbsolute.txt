@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\SwitchCaseATM\bin\Debug\net9.0\SwitchCaseATM.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\SwitchCaseATM\bin\Debug\net9.0\SwitchCaseATM.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\SwitchCaseATM\bin\Debug\net9.0\SwitchCaseATM.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\SwitchCaseATM\bin\Debug\net9.0\SwitchCaseATM.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\SwitchCaseATM\bin\Debug\net9.0\SwitchCaseATM.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\SwitchCaseATM\obj\Debug\net9.0\SwitchCaseATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\SwitchCaseATM\obj\Debug\net9.0\SwitchCaseATM.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\SwitchCaseATM\obj\Debug\net9.0\SwitchCaseATM.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\SwitchCaseATM\obj\Debug\net9.0\SwitchCaseATM.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\SwitchCaseATM\obj\Debug\net9.0\SwitchCaseATM.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\SwitchCaseATM\obj\Debug\net9.0\SwitchCaseATM.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\SwitchCaseATM\obj\Debug\net9.0\refint\SwitchCaseATM.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\SwitchCaseATM\obj\Debug\net9.0\SwitchCaseATM.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\SwitchCaseATM\obj\Debug\net9.0\SwitchCaseATM.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\SwitchCaseATM\obj\Debug\net9.0\ref\SwitchCaseATM.dll

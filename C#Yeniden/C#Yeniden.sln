@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniAtm", "MiniAtm\MiniAtm.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BedenKitleİndeksi", "BedenKitleİndeksi\BedenKitleİndeksi.csproj", "{4FF7E5B0-6DEE-4D7D-ACFD-395BFBC77DB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCaseATM", "SwitchCaseATM\SwitchCaseATM.csproj", "{C6C97E8C-7FA0-4650-8385-028350490D44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{4FF7E5B0-6DEE-4D7D-ACFD-395BFBC77DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FF7E5B0-6DEE-4D7D-ACFD-395BFBC77DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FF7E5B0-6DEE-4D7D-ACFD-395BFBC77DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6C97E8C-7FA0-4650-8385-028350490D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6C97E8C-7FA0-4650-8385-028350490D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6C97E8C-7FA0-4650-8385-028350490D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6C97E8C-7FA0-4650-8385-028350490D44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
