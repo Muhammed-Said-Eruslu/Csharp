@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\Foreach\bin\Debug\net9.0\Foreach.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\Foreach\bin\Debug\net9.0\Foreach.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\Foreach\bin\Debug\net9.0\Foreach.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\Foreach\bin\Debug\net9.0\Foreach.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\Foreach\bin\Debug\net9.0\Foreach.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\Foreach\obj\Debug\net9.0\Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\Foreach\obj\Debug\net9.0\Foreach.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\Foreach\obj\Debug\net9.0\Foreach.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\Foreach\obj\Debug\net9.0\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\Foreach\obj\Debug\net9.0\Foreach.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\Foreach\obj\Debug\net9.0\Foreach.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\Foreach\obj\Debug\net9.0\refint\Foreach.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\Foreach\obj\Debug\net9.0\Foreach.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\Foreach\obj\Debug\net9.0\Foreach.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\Foreach\obj\Debug\net9.0\ref\Foreach.dll
