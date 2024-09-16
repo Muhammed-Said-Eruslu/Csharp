@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\GenericList\GenericList\bin\Debug\net9.0\GenericList.exe
+C:\Users\ben\source\repos\Csharp\GenericList\GenericList\bin\Debug\net9.0\GenericList.deps.json
+C:\Users\ben\source\repos\Csharp\GenericList\GenericList\bin\Debug\net9.0\GenericList.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\GenericList\GenericList\bin\Debug\net9.0\GenericList.dll
+C:\Users\ben\source\repos\Csharp\GenericList\GenericList\bin\Debug\net9.0\GenericList.pdb
+C:\Users\ben\source\repos\Csharp\GenericList\GenericList\obj\Debug\net9.0\GenericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\GenericList\GenericList\obj\Debug\net9.0\GenericList.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\GenericList\GenericList\obj\Debug\net9.0\GenericList.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\GenericList\GenericList\obj\Debug\net9.0\GenericList.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\GenericList\GenericList\obj\Debug\net9.0\GenericList.sourcelink.json
+C:\Users\ben\source\repos\Csharp\GenericList\GenericList\obj\Debug\net9.0\GenericList.dll
+C:\Users\ben\source\repos\Csharp\GenericList\GenericList\obj\Debug\net9.0\refint\GenericList.dll
+C:\Users\ben\source\repos\Csharp\GenericList\GenericList\obj\Debug\net9.0\GenericList.pdb
+C:\Users\ben\source\repos\Csharp\GenericList\GenericList\obj\Debug\net9.0\GenericList.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\GenericList\GenericList\obj\Debug\net9.0\ref\GenericList.dll
