@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\MetotTanımlama\bin\Debug\net9.0\MetotTanımlama.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\MetotTanımlama\bin\Debug\net9.0\MetotTanımlama.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\MetotTanımlama\bin\Debug\net9.0\MetotTanımlama.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\MetotTanımlama\bin\Debug\net9.0\MetotTanımlama.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\MetotTanımlama\bin\Debug\net9.0\MetotTanımlama.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\MetotTanımlama\obj\Debug\net9.0\MetotTanımlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\MetotTanımlama\obj\Debug\net9.0\MetotTanımlama.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\MetotTanımlama\obj\Debug\net9.0\MetotTanımlama.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\MetotTanımlama\obj\Debug\net9.0\MetotTanımlama.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\MetotTanımlama\obj\Debug\net9.0\MetotTanımlama.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\MetotTanımlama\obj\Debug\net9.0\MetotTanımlama.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\MetotTanımlama\obj\Debug\net9.0\refint\MetotTanımlama.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\MetotTanımlama\obj\Debug\net9.0\MetotTanımlama.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\MetotTanımlama\obj\Debug\net9.0\MetotTanımlama.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\MetotTanımlama\obj\Debug\net9.0\ref\MetotTanımlama.dll

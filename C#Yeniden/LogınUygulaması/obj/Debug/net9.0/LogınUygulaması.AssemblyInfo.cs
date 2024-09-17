@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LogınUygulaması")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4db1bb86956ca2a855a61b3647b8f44923be9b98")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+664c07f4e2faf00d726c93a2f5048913450d5da4")]
 [assembly: System.Reflection.AssemblyProductAttribute("LogınUygulaması")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LogınUygulaması")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

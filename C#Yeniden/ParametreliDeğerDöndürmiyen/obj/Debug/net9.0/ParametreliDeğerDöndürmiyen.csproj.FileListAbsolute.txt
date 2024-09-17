@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ParametreliDeğerDöndürmiyen\bin\Debug\net9.0\ParametreliDeğerDöndürmiyen.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ParametreliDeğerDöndürmiyen\bin\Debug\net9.0\ParametreliDeğerDöndürmiyen.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ParametreliDeğerDöndürmiyen\bin\Debug\net9.0\ParametreliDeğerDöndürmiyen.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ParametreliDeğerDöndürmiyen\bin\Debug\net9.0\ParametreliDeğerDöndürmiyen.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ParametreliDeğerDöndürmiyen\bin\Debug\net9.0\ParametreliDeğerDöndürmiyen.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ParametreliDeğerDöndürmiyen\obj\Debug\net9.0\ParametreliDeğerDöndürmiyen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ParametreliDeğerDöndürmiyen\obj\Debug\net9.0\ParametreliDeğerDöndürmiyen.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ParametreliDeğerDöndürmiyen\obj\Debug\net9.0\ParametreliDeğerDöndürmiyen.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ParametreliDeğerDöndürmiyen\obj\Debug\net9.0\ParametreliDeğerDöndürmiyen.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ParametreliDeğerDöndürmiyen\obj\Debug\net9.0\ParametreliDeğerDöndürmiyen.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ParametreliDeğerDöndürmiyen\obj\Debug\net9.0\ParametreliDeğerDöndürmiyen.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ParametreliDeğerDöndürmiyen\obj\Debug\net9.0\refint\ParametreliDeğerDöndürmiyen.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ParametreliDeğerDöndürmiyen\obj\Debug\net9.0\ParametreliDeğerDöndürmiyen.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ParametreliDeğerDöndürmiyen\obj\Debug\net9.0\ParametreliDeğerDöndürmiyen.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ParametreliDeğerDöndürmiyen\obj\Debug\net9.0\ref\ParametreliDeğerDöndürmiyen.dll

@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\dizilerVarMı\bin\Debug\net9.0\dizilerVarMı.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\dizilerVarMı\bin\Debug\net9.0\dizilerVarMı.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\dizilerVarMı\bin\Debug\net9.0\dizilerVarMı.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\dizilerVarMı\bin\Debug\net9.0\dizilerVarMı.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\dizilerVarMı\bin\Debug\net9.0\dizilerVarMı.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\dizilerVarMı\obj\Debug\net9.0\dizilerVarMı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\dizilerVarMı\obj\Debug\net9.0\dizilerVarMı.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\dizilerVarMı\obj\Debug\net9.0\dizilerVarMı.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\dizilerVarMı\obj\Debug\net9.0\dizilerVarMı.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\dizilerVarMı\obj\Debug\net9.0\dizilerVarMı.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\dizilerVarMı\obj\Debug\net9.0\dizilerVarMı.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\dizilerVarMı\obj\Debug\net9.0\refint\dizilerVarMı.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\dizilerVarMı\obj\Debug\net9.0\dizilerVarMı.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\dizilerVarMı\obj\Debug\net9.0\dizilerVarMı.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\dizilerVarMı\obj\Debug\net9.0\ref\dizilerVarMı.dll
