@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KaresiniAlma\bin\Debug\net9.0\KaresiniAlma.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KaresiniAlma\bin\Debug\net9.0\KaresiniAlma.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KaresiniAlma\bin\Debug\net9.0\KaresiniAlma.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KaresiniAlma\bin\Debug\net9.0\KaresiniAlma.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KaresiniAlma\bin\Debug\net9.0\KaresiniAlma.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KaresiniAlma\obj\Debug\net9.0\KaresiniAlma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KaresiniAlma\obj\Debug\net9.0\KaresiniAlma.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KaresiniAlma\obj\Debug\net9.0\KaresiniAlma.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KaresiniAlma\obj\Debug\net9.0\KaresiniAlma.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KaresiniAlma\obj\Debug\net9.0\KaresiniAlma.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KaresiniAlma\obj\Debug\net9.0\KaresiniAlma.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KaresiniAlma\obj\Debug\net9.0\refint\KaresiniAlma.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KaresiniAlma\obj\Debug\net9.0\KaresiniAlma.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KaresiniAlma\obj\Debug\net9.0\KaresiniAlma.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KaresiniAlma\obj\Debug\net9.0\ref\KaresiniAlma.dll

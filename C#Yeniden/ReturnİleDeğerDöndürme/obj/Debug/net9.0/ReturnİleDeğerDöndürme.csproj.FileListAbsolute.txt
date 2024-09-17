@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ReturnİleDeğerDöndürme\bin\Debug\net9.0\ReturnİleDeğerDöndürme.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ReturnİleDeğerDöndürme\bin\Debug\net9.0\ReturnİleDeğerDöndürme.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ReturnİleDeğerDöndürme\bin\Debug\net9.0\ReturnİleDeğerDöndürme.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ReturnİleDeğerDöndürme\bin\Debug\net9.0\ReturnİleDeğerDöndürme.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ReturnİleDeğerDöndürme\bin\Debug\net9.0\ReturnİleDeğerDöndürme.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ReturnİleDeğerDöndürme\obj\Debug\net9.0\ReturnİleDeğerDöndürme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ReturnİleDeğerDöndürme\obj\Debug\net9.0\ReturnİleDeğerDöndürme.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ReturnİleDeğerDöndürme\obj\Debug\net9.0\ReturnİleDeğerDöndürme.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ReturnİleDeğerDöndürme\obj\Debug\net9.0\ReturnİleDeğerDöndürme.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ReturnİleDeğerDöndürme\obj\Debug\net9.0\ReturnİleDeğerDöndürme.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ReturnİleDeğerDöndürme\obj\Debug\net9.0\ReturnİleDeğerDöndürme.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ReturnİleDeğerDöndürme\obj\Debug\net9.0\refint\ReturnİleDeğerDöndürme.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ReturnİleDeğerDöndürme\obj\Debug\net9.0\ReturnİleDeğerDöndürme.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ReturnİleDeğerDöndürme\obj\Debug\net9.0\ReturnİleDeğerDöndürme.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ReturnİleDeğerDöndürme\obj\Debug\net9.0\ref\ReturnİleDeğerDöndürme.dll

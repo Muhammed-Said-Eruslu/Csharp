@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\TekMıÇitMıMeTOT\bin\Debug\net9.0\TekMıÇitMıMeTOT.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\TekMıÇitMıMeTOT\bin\Debug\net9.0\TekMıÇitMıMeTOT.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\TekMıÇitMıMeTOT\bin\Debug\net9.0\TekMıÇitMıMeTOT.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\TekMıÇitMıMeTOT\bin\Debug\net9.0\TekMıÇitMıMeTOT.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\TekMıÇitMıMeTOT\bin\Debug\net9.0\TekMıÇitMıMeTOT.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\TekMıÇitMıMeTOT\obj\Debug\net9.0\TekMıÇitMıMeTOT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\TekMıÇitMıMeTOT\obj\Debug\net9.0\TekMıÇitMıMeTOT.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\TekMıÇitMıMeTOT\obj\Debug\net9.0\TekMıÇitMıMeTOT.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\TekMıÇitMıMeTOT\obj\Debug\net9.0\TekMıÇitMıMeTOT.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\TekMıÇitMıMeTOT\obj\Debug\net9.0\TekMıÇitMıMeTOT.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\TekMıÇitMıMeTOT\obj\Debug\net9.0\TekMıÇitMıMeTOT.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\TekMıÇitMıMeTOT\obj\Debug\net9.0\refint\TekMıÇitMıMeTOT.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\TekMıÇitMıMeTOT\obj\Debug\net9.0\TekMıÇitMıMeTOT.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\TekMıÇitMıMeTOT\obj\Debug\net9.0\TekMıÇitMıMeTOT.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\TekMıÇitMıMeTOT\obj\Debug\net9.0\ref\TekMıÇitMıMeTOT.dll

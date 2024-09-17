@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "İkiSayıAlma/1.0.0": {
+        "runtime": {
+          "İkiSayıAlma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "İkiSayıAlma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
