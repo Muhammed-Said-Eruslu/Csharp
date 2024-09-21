@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ClassOluşturma\bin\Debug\net9.0\ClassOluşturma.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ClassOluşturma\bin\Debug\net9.0\ClassOluşturma.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ClassOluşturma\bin\Debug\net9.0\ClassOluşturma.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ClassOluşturma\bin\Debug\net9.0\ClassOluşturma.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ClassOluşturma\bin\Debug\net9.0\ClassOluşturma.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ClassOluşturma\obj\Debug\net9.0\ClassOluşturma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ClassOluşturma\obj\Debug\net9.0\ClassOluşturma.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ClassOluşturma\obj\Debug\net9.0\ClassOluşturma.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ClassOluşturma\obj\Debug\net9.0\ClassOluşturma.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ClassOluşturma\obj\Debug\net9.0\ClassOluşturma.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ClassOluşturma\obj\Debug\net9.0\ClassOluşturma.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ClassOluşturma\obj\Debug\net9.0\refint\ClassOluşturma.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ClassOluşturma\obj\Debug\net9.0\ClassOluşturma.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ClassOluşturma\obj\Debug\net9.0\ClassOluşturma.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\ClassOluşturma\obj\Debug\net9.0\ref\ClassOluşturma.dll
