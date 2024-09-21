@@ -4,7 +4,7 @@ namespace ClassOluşturma;
 
 public class Araba
 {
-    public int  kapıSaysı;
+    public int  kapıSaysı; // erisim belirleyici araba.kapısayısı diyip her yerden ulasabılırım
     public string arabaModeli;
     public string arabaRengi;
 

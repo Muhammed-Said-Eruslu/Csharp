@@ -4,7 +4,7 @@ namespace OgrencıUygulaması;
 
 public class Ogrencı
 {
-    private int ogrencıNo;
+    private int ogrencıNo; // private olarak tanımladığım ıcın bu sınıfın dısında kullanılamaz üretilemez
 
     private string ısım;
 
@@ -18,10 +18,10 @@ public class Ogrencı
 
     private string okulIsım;
 
-    public Ogrencı(int _ogrencıNo, string _Isım, string _soyIsım, double _Vize1, double _Vıze2, double _Fınal, string _OkulIsım)
+    public Ogrencı(int _ogrencıNo, string _Isım, string _soyIsım, double _Vize1, double _Vıze2, double _Fınal, string _OkulIsım) // kullanıcadan aldığım parametreleri
     {
         ogrencıNo = _ogrencıNo; // parametre larak gelen değerler yukarda tanımladıgım değerlere eşit oldu
-        ısım = _Isım;
+        ısım = _Isım; // private olarak tanımladıgım değişkene atarım bu classta oldugu ıcın ben kullana bılırım
         soyIsım = _soyIsım;
         vize1 = _Vize1;
         vıze2 = _Vıze2;
@@ -43,9 +43,9 @@ public class Ogrencı
     public double OgrencıOrtalamaBul()
     {
 
-     double toplamOrtlama = vize1 * 0.2 + vıze2 * 0.2 + fınal * 0.6;
-     Console.WriteLine($"Vize 1 Vize 2 Ve Finalin Ortlaması {toplamOrtlama}");
-     return toplamOrtlama; 
+     double toplamOrtlama = vize1 * 0.2 + vıze2 * 0.2 + fınal * 0.6; // ortlamasını bulurum
+     Console.WriteLine($"Vize 1 Vize 2 Ve Finalin Ortlaması {toplamOrtlama}"); // ortlamayı yazdırıp
+     return toplamOrtlama; // toplam ortlamayı dondururum 
     }
     public void OkulGetir()
     {
