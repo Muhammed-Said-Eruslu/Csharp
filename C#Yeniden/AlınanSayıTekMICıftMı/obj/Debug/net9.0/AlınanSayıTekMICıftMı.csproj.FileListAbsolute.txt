@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\AlınanSayıTekMICıftMı\bin\Debug\net9.0\AlınanSayıTekMICıftMı.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\AlınanSayıTekMICıftMı\bin\Debug\net9.0\AlınanSayıTekMICıftMı.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\AlınanSayıTekMICıftMı\bin\Debug\net9.0\AlınanSayıTekMICıftMı.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\AlınanSayıTekMICıftMı\bin\Debug\net9.0\AlınanSayıTekMICıftMı.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\AlınanSayıTekMICıftMı\bin\Debug\net9.0\AlınanSayıTekMICıftMı.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\AlınanSayıTekMICıftMı\obj\Debug\net9.0\AlınanSayıTekMICıftMı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\AlınanSayıTekMICıftMı\obj\Debug\net9.0\AlınanSayıTekMICıftMı.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\AlınanSayıTekMICıftMı\obj\Debug\net9.0\AlınanSayıTekMICıftMı.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\AlınanSayıTekMICıftMı\obj\Debug\net9.0\AlınanSayıTekMICıftMı.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\AlınanSayıTekMICıftMı\obj\Debug\net9.0\AlınanSayıTekMICıftMı.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\AlınanSayıTekMICıftMı\obj\Debug\net9.0\AlınanSayıTekMICıftMı.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\AlınanSayıTekMICıftMı\obj\Debug\net9.0\refint\AlınanSayıTekMICıftMı.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\AlınanSayıTekMICıftMı\obj\Debug\net9.0\AlınanSayıTekMICıftMı.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\AlınanSayıTekMICıftMı\obj\Debug\net9.0\AlınanSayıTekMICıftMı.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\AlınanSayıTekMICıftMı\obj\Debug\net9.0\ref\AlınanSayıTekMICıftMı.dll
