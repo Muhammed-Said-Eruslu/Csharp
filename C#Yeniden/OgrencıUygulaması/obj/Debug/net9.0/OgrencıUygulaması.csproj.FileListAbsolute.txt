@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\OgrencıUygulaması\bin\Debug\net9.0\OgrencıUygulaması.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\OgrencıUygulaması\bin\Debug\net9.0\OgrencıUygulaması.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\OgrencıUygulaması\bin\Debug\net9.0\OgrencıUygulaması.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\OgrencıUygulaması\bin\Debug\net9.0\OgrencıUygulaması.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\OgrencıUygulaması\bin\Debug\net9.0\OgrencıUygulaması.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\OgrencıUygulaması\obj\Debug\net9.0\OgrencıUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\OgrencıUygulaması\obj\Debug\net9.0\OgrencıUygulaması.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\OgrencıUygulaması\obj\Debug\net9.0\OgrencıUygulaması.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\OgrencıUygulaması\obj\Debug\net9.0\OgrencıUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\OgrencıUygulaması\obj\Debug\net9.0\OgrencıUygulaması.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\OgrencıUygulaması\obj\Debug\net9.0\OgrencıUygulaması.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\OgrencıUygulaması\obj\Debug\net9.0\refint\OgrencıUygulaması.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\OgrencıUygulaması\obj\Debug\net9.0\OgrencıUygulaması.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\OgrencıUygulaması\obj\Debug\net9.0\OgrencıUygulaması.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\OgrencıUygulaması\obj\Debug\net9.0\ref\OgrencıUygulaması.dll

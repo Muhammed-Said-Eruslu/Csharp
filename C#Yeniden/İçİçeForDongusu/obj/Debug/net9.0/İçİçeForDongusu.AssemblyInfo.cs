@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("İçİçeForDongusu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8c9977f7fbee8eea3299385b3e7687aa552a62a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6c602a2d8884f3c34c694d102ab0595f2407442")]
 [assembly: System.Reflection.AssemblyProductAttribute("İçİçeForDongusu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("İçİçeForDongusu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
