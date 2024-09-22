@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DeğilOperatörü")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd0c1da37ef602868c1d812d8cdbccd96f9df596")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+592fd5908170a26e7669c87201c79de45a11e79b")]
 [assembly: System.Reflection.AssemblyProductAttribute("DeğilOperatörü")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DeğilOperatörü")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

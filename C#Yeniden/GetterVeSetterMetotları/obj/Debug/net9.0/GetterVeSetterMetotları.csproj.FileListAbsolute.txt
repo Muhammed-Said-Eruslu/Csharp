@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\GetterVeSetterMetotları\bin\Debug\net9.0\GetterVeSetterMetotları.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\GetterVeSetterMetotları\bin\Debug\net9.0\GetterVeSetterMetotları.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\GetterVeSetterMetotları\bin\Debug\net9.0\GetterVeSetterMetotları.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\GetterVeSetterMetotları\bin\Debug\net9.0\GetterVeSetterMetotları.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\GetterVeSetterMetotları\bin\Debug\net9.0\GetterVeSetterMetotları.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\GetterVeSetterMetotları\obj\Debug\net9.0\GetterVeSetterMetotları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\GetterVeSetterMetotları\obj\Debug\net9.0\GetterVeSetterMetotları.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\GetterVeSetterMetotları\obj\Debug\net9.0\GetterVeSetterMetotları.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\GetterVeSetterMetotları\obj\Debug\net9.0\GetterVeSetterMetotları.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\GetterVeSetterMetotları\obj\Debug\net9.0\GetterVeSetterMetotları.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\GetterVeSetterMetotları\obj\Debug\net9.0\GetterVeSetterMetotları.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\GetterVeSetterMetotları\obj\Debug\net9.0\refint\GetterVeSetterMetotları.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\GetterVeSetterMetotları\obj\Debug\net9.0\GetterVeSetterMetotları.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\GetterVeSetterMetotları\obj\Debug\net9.0\GetterVeSetterMetotları.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\GetterVeSetterMetotları\obj\Debug\net9.0\ref\GetterVeSetterMetotları.dll

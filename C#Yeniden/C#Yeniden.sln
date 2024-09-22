@@ -119,6 +119,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OgrenciUygulaması", "Ogren
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OgrencıUygulaması", "OgrencıUygulaması\OgrencıUygulaması.csproj", "{2BCD2849-5563-40EE-8002-1036BC84E74E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetterVeSetterMetotları", "GetterVeSetterMetotları\GetterVeSetterMetotları.csproj", "{C92BF038-C497-4D4B-9D5F-830182B9EC95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyKullanımı", "PropertyKullanımı\PropertyKullanımı.csproj", "{07139AC7-D332-481C-8F47-2D6B64EB19C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -357,6 +361,14 @@ Global
 		{2BCD2849-5563-40EE-8002-1036BC84E74E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BCD2849-5563-40EE-8002-1036BC84E74E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BCD2849-5563-40EE-8002-1036BC84E74E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C92BF038-C497-4D4B-9D5F-830182B9EC95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C92BF038-C497-4D4B-9D5F-830182B9EC95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C92BF038-C497-4D4B-9D5F-830182B9EC95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C92BF038-C497-4D4B-9D5F-830182B9EC95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07139AC7-D332-481C-8F47-2D6B64EB19C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07139AC7-D332-481C-8F47-2D6B64EB19C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07139AC7-D332-481C-8F47-2D6B64EB19C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07139AC7-D332-481C-8F47-2D6B64EB19C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
