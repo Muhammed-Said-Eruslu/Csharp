@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BoolVeriTipi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa60a2ff50c519927eb10e17ebd8157ba9d79e07")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e796952980026ac57fa99a9473705a89e269ca4")]
 [assembly: System.Reflection.AssemblyProductAttribute("BoolVeriTipi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BoolVeriTipi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

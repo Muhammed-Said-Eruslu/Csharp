@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShortVeriTipi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+592fd5908170a26e7669c87201c79de45a11e79b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e796952980026ac57fa99a9473705a89e269ca4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShortVeriTipi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShortVeriTipi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
