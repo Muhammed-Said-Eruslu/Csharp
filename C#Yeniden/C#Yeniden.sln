@@ -123,6 +123,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetterVeSetterMetotları", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyKullanımı", "PropertyKullanımı\PropertyKullanımı.csproj", "{07139AC7-D332-481C-8F47-2D6B64EB19C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KapsüllemeÖdev", "KapsüllemeÖdev\KapsüllemeÖdev.csproj", "{A4800B14-9200-4019-A14C-52E629FA80D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -369,6 +371,10 @@ Global
 		{07139AC7-D332-481C-8F47-2D6B64EB19C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07139AC7-D332-481C-8F47-2D6B64EB19C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07139AC7-D332-481C-8F47-2D6B64EB19C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4800B14-9200-4019-A14C-52E629FA80D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4800B14-9200-4019-A14C-52E629FA80D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4800B14-9200-4019-A14C-52E629FA80D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4800B14-9200-4019-A14C-52E629FA80D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

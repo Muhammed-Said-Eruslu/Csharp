@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KapsüllemeÖdev\bin\Debug\net9.0\KapsüllemeÖdev.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KapsüllemeÖdev\bin\Debug\net9.0\KapsüllemeÖdev.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KapsüllemeÖdev\bin\Debug\net9.0\KapsüllemeÖdev.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KapsüllemeÖdev\bin\Debug\net9.0\KapsüllemeÖdev.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KapsüllemeÖdev\bin\Debug\net9.0\KapsüllemeÖdev.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KapsüllemeÖdev\obj\Debug\net9.0\KapsüllemeÖdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KapsüllemeÖdev\obj\Debug\net9.0\KapsüllemeÖdev.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KapsüllemeÖdev\obj\Debug\net9.0\KapsüllemeÖdev.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KapsüllemeÖdev\obj\Debug\net9.0\KapsüllemeÖdev.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KapsüllemeÖdev\obj\Debug\net9.0\KapsüllemeÖdev.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KapsüllemeÖdev\obj\Debug\net9.0\KapsüllemeÖdev.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KapsüllemeÖdev\obj\Debug\net9.0\refint\KapsüllemeÖdev.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KapsüllemeÖdev\obj\Debug\net9.0\KapsüllemeÖdev.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KapsüllemeÖdev\obj\Debug\net9.0\KapsüllemeÖdev.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\KapsüllemeÖdev\obj\Debug\net9.0\ref\KapsüllemeÖdev.dll
