@@ -18,4 +18,10 @@ Calısan.maas = 1000; // static olduğu için sınıftan ulaştım
 
 Console.WriteLine($"Çalışan ID: {calısan.calısanID}\nÇalışan İsim: {calısan.ısım}\nÇalışan Soyisim: {calısan.soyısım}\nÇalışan Maaş: {Calısan.maas}");*/
 
+// static yapıcı metot kullanımı
+/*
+Kullanıcı kullanıcı = new Kullanıcı(1,"Said","Euslu");
+kullanıcı.BilgileriGoster(); // metot olduğu zaman parametre almasa bile parantez aç kapa yapmak zorunludur
+kullanıcı.zamYap(700);*/
+
 

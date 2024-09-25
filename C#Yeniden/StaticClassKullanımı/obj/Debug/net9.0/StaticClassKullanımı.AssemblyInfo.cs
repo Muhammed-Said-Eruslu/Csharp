@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("StaticMetotKullanımı")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("StaticClassKullanımı")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e70b52a435962d55d6ca35d2fd97d516813b1cbd")]
-[assembly: System.Reflection.AssemblyProductAttribute("StaticMetotKullanımı")]
-[assembly: System.Reflection.AssemblyTitleAttribute("StaticMetotKullanımı")]
+[assembly: System.Reflection.AssemblyProductAttribute("StaticClassKullanımı")]
+[assembly: System.Reflection.AssemblyTitleAttribute("StaticClassKullanımı")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
