@@ -1,6 +1,6 @@
 ﻿using KapsüllemeÖdev;
 
-Personel personel = new Personel();
+Personel personel = new Personel(); // ingiliz anahtar sımgesi varsa property demektir Türkçesi özellik demek
 
-personel.TCKNO = "10225e60180";
-System.Console.WriteLine("tckno "+personel.TCKNO);
+personel.TCKNO = "12345678911";
+System.Console.WriteLine("TCKNO: "+personel.TCKNO);

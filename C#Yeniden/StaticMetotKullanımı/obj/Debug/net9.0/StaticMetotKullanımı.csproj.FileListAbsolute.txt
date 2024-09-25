@@ -1,0 +1,15 @@
+C:\Users\ben\source\repos\Csharp\C#Yeniden\StaticMetotKullanımı\bin\Debug\net9.0\StaticMetotKullanımı.exe
+C:\Users\ben\source\repos\Csharp\C#Yeniden\StaticMetotKullanımı\bin\Debug\net9.0\StaticMetotKullanımı.deps.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\StaticMetotKullanımı\bin\Debug\net9.0\StaticMetotKullanımı.runtimeconfig.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\StaticMetotKullanımı\bin\Debug\net9.0\StaticMetotKullanımı.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\StaticMetotKullanımı\bin\Debug\net9.0\StaticMetotKullanımı.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\StaticMetotKullanımı\obj\Debug\net9.0\StaticMetotKullanımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\Csharp\C#Yeniden\StaticMetotKullanımı\obj\Debug\net9.0\StaticMetotKullanımı.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\StaticMetotKullanımı\obj\Debug\net9.0\StaticMetotKullanımı.AssemblyInfo.cs
+C:\Users\ben\source\repos\Csharp\C#Yeniden\StaticMetotKullanımı\obj\Debug\net9.0\StaticMetotKullanımı.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\StaticMetotKullanımı\obj\Debug\net9.0\StaticMetotKullanımı.sourcelink.json
+C:\Users\ben\source\repos\Csharp\C#Yeniden\StaticMetotKullanımı\obj\Debug\net9.0\StaticMetotKullanımı.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\StaticMetotKullanımı\obj\Debug\net9.0\refint\StaticMetotKullanımı.dll
+C:\Users\ben\source\repos\Csharp\C#Yeniden\StaticMetotKullanımı\obj\Debug\net9.0\StaticMetotKullanımı.pdb
+C:\Users\ben\source\repos\Csharp\C#Yeniden\StaticMetotKullanımı\obj\Debug\net9.0\StaticMetotKullanımı.genruntimeconfig.cache
+C:\Users\ben\source\repos\Csharp\C#Yeniden\StaticMetotKullanımı\obj\Debug\net9.0\ref\StaticMetotKullanımı.dll
